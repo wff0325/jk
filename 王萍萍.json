@@ -11,9 +11,9 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "王萍萍1","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": "王萍萍2","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],
