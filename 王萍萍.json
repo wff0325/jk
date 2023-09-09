@@ -17,6 +17,7 @@
 
 {"key": "厂长","name": "厂长-(萍萍)","type": 3,"api": "csp_XBPQ","playerTape": "1","ext": "./json/厂长.json"},
 
+{"key": "萌猫","name": "萌猫-(萍萍)","type": 3,"api": "csp_XBPQ","playerTape": "1","ext": "./json/萌猫.json"},
 
 {"key": "douban","name": "王萍萍2","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
