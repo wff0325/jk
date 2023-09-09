@@ -43,7 +43,7 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://live.fanmingming.com/tv/m3u/global.m3u",
-		    "epg": "https://epg.112114.eu.org/",
+		    "epg": "https://live.fanmingming.com/e.xml",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
 
