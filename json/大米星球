@@ -1,0 +1,80 @@
+{
+  "author":"wufeng",
+   "name":"大米星球",
+   "url":"https://dami6.me",//网站链接
+   "tihuan":"cnzz.com",//嗅探过滤地址用
+   "user":"",
+   "user":"User-Agent:Dart/2.14(dart:io)",
+   "shouye":"1",
+  
+
+   "fenlei":"电影$/vodtype/20#电视剧$/vodtype/21#动漫$/vodtype/22#综艺$/vodtype/23#福利$/vodtype/35#",//网站分类
+   "houzui":".html",//网站翻页链接的后缀
+   "shifouercijiequ":"1",//截取的数组是否需要二次截取，0不需要，1需要
+   "jiequqian":"class=\"module-items",//不需要二次截取就填空
+   "jiequhou":"class=\"fixedGroup",//不需要二次截取就填空
+   "jiequshuzuqian":"<a",//截取的列表数组前的关键词，截取的关键词有 " 的用  \ 进行转译
+   "jiequshuzuhou":"ait=\"",截取的列表后数组的关键词，截取的关键词有 " 的用  \ 进行转译
+   "tupianqian":"data-original=\"",
+   "tupianhou":"\"",
+   "biaotiqian":"title=\"",
+   "biaotihou":"\"",
+   "lianjieqian":"herf=\"",
+   "lianjiehou":"\"",
+
+
+//副标题（不需要删除副标题两个字段）
+   "fubiaotiqian":"item-note\">",
+   "fubiaotihou":"<div>",
+
+
+
+//搜素部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+   "sousuoqian":"/index.php/ajax/suggest?mid=1&wd=",
+   "sousuohou":"&limit=500",
+   "sousuohouzhui":"/voddetail/",//搜索页影片跳转详情页的中间标识链接部分
+   "ssmoshi":"0",
+   "ssshifouercijiequ":"0",
+   "jspic":"pic",
+   "jsname":"name",
+   "jsid":"id",
+   "ssjiequqian":"",
+   "ssjiequhou":"",
+   "ssjiequshuzuqian":"",
+   "ssjiequshuzuhou":"",
+   "sstupianqian":"",
+   "sstupianhou":"",
+   "ssbiaotiqian":"",
+   "ssbiaotihou":"",
+   "sslianjieqian":"",
+   "sslianjiehou":"",
+
+
+   "bfshifouercijiequ":"0",
+   "bfjiequqian":"",
+   "bfjiequhou":"",
+   "bfjiequshuzuqian":"class=\"module-play-list",//播放截取的列表数组前关键词
+   "bfjiequshuzuhou":"</div>",//播放截取的列表数组后关键词
+
+
+       "zhuangtaiqian":"备注:</span>",//状态前关键词
+       "zhuangtaihou":"<div>",//状态后关键词
+       "daoyanqian":"导演:</span>",//导演前关键词
+       "daoyanhou":"<div>",//导演后关键词
+       "zhuyanqian":"主演:</span>",
+    "zhuyanhou":"<div>",
+    "juqingqian":"class\="module-info-introduction-content",
+    "jiqinghou":"</p>",
+
+
+
+   "bfshifouercijiequ":"0",
+   "bfjiequqian":"",
+   "bfjiequhou":"",
+   "bfjiequshuzuqian":"<a",
+   "bfjiequshuzuhou":"\a>",
+   "bfbiaotiqian":"span>",//第几集第几集的标题
+   "bfbiaotihou":"</span",
+   "bflianjieqian":"herf=\"",
+   "bflianjiehou":"\"",
+}//播放剧集链接后关键词
