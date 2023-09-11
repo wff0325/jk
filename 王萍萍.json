@@ -19,7 +19,7 @@
 
 {"key": "萌猫","name": "萌猫-(萍萍)","type": 3,"api": "csp_XBPQ","playerTape": "1","ext": "./json/萌猫.json"},
 
-{"key": "大米星球","name": "大米星球","type": 3,"api": "csp_XBPQ","playerTape": "1","ext": "./json/大米星球.json"},
+{"key": "007影视","name": "007影视","type": 3,"api": "csp_XBPQ","playerTape": "1","ext": "./json/007影视.json"},
 
 {"key": "douban","name": "王萍萍2","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
