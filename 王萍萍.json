@@ -19,7 +19,7 @@
 
 {"key": "萌猫","name": "萌猫-(萍萍)","type": 3,"api": "csp_XBPQ","playerTape": "1","ext": "./json/萌猫.json"},
 
-{"key": "csp_XYQHiker_BT天堂","name": "🧲✈️BT天堂(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"viewType": 1,"ext": "./json/BT天堂.json"},
+{"key": "csp_XYQHiker_BT天堂","name": "🧲✈️BT天堂(XYQH)","type": 3,"api": "csp_XYQHiker","playerTape": "1","ext": "./json/BT天堂.json"},
 
 {"key": "douban","name": "王萍萍2","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
