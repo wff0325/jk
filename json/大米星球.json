@@ -8,7 +8,7 @@
    "shouye":"1",
   
 
-   "fenlei":"电影$/vodtype/20#电视剧$/vodtype/21#动漫$/vodtype/22#综艺$/vodtype/23#福利$/vodtype/35#",//网站分类
+   "fenlei":"电影$/vodtype/20#电视剧$/vodtype/21#动漫$/vodtype/22#综艺$/vodtype/23#",//网站分类
    "houzui":".html",//网站翻页链接的后缀
    "shifouercijiequ":"1",//截取的数组是否需要二次截取，0不需要，1需要
    "jiequqian":"class=\"module-items",//不需要二次截取就填空
