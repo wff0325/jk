@@ -72,7 +72,7 @@
    "bfjiequqian":"空",
    "bfjiequhou":"空",
    "bfjiequshuzuqian":"<a",
-   "bfjiequshuzuhou":"\a>",
+   "bfjiequshuzuhou":"/a>",
    "bfbiaotiqian":"span>",//第几集第几集的标题
    "bfbiaotihou":"</span",
    "bflianjieqian":"herf=\"",
