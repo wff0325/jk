@@ -26,7 +26,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "156d05f037714c78a6914335153cc907",
+        "token": "e9857132ada34045866ee5f59546861e",
         "filter": "./json/wogg.json"
       },
       "jar": "./jar/wogg.jar"
@@ -35,7 +35,7 @@
       "key": "xml_玩偶",
       "name": "🧙玩偶┃哥哥",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=156d05f037714c78a6914335153cc907",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=e9857132ada34045866ee5f59546861e",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
