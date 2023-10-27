@@ -5,7 +5,7 @@
       "key": "豆瓣",
       "name": "🎯王萍萍自用",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js",
       "ext": "./js/douban.js"
     },
     {
