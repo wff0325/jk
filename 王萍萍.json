@@ -5,9 +5,8 @@
       "key": "豆瓣",
       "name": "🎯王萍萍自用",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/douban.js",
-      "jar": "./jar/xhkw1.jar"
+      "api": "https://jihulab.com/wpp1/wppx/-/raw/master/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/wpp1/WPP/-/raw/master/JS/29_022812_drpy.js"
     },
     {
       "key": "csp_KungFu404",
