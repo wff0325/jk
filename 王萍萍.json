@@ -32,19 +32,6 @@
       "ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://wogg.link/"
     },
     {
-      "key": "酷玩",
-      "name": "🎯酷玩┃云盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "f7b46651fb084e6f9f2bdf30773939aa",
-        "filter": "./json/wogg.json"
-      },
-      "jar": "./jar/wogg.jar"
-    },
-    {
       "key": "csp_XBPQ_好戏",
       "name": "👹好戏┃TV",
       "type": 3,
