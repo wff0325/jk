@@ -126,6 +126,34 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
+      "key": "jiangliang",
+      "name": "🌄嘉靓┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api.jialiangos.com:81/api.php/app/"
+    },
+    {
+      "key": "耐看",
+      "name": "🕶耐看┃点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xn--yet226clhctt4b.fun:66/json/耐看.json"
+    },
+    {
+      "key": "csp_干饭",
+      "name": "🥣干饭┃TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.fun:66/json/干饭.json"
+    },
+    {
       "key": "csp_午夜",
       "name": "🌘午夜┃影视",
       "type": 3,
@@ -370,7 +398,7 @@
     },
     {
       "key": "xh",
-      "name": "🎯2023.10.25更新",
+      "name": "🎯2023.10.27更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
