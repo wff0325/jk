@@ -1,4 +1,4 @@
-//=============单仓更新日期 2023/10/27=============
+//=============单仓更新日期 2023/10/28=============
 //本单仓库在线链接：
 //https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓
 //https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓
@@ -16,6 +16,7 @@
 {"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1"},
 {"url":"https://jihulab.com/wpp1/WPP/-/raw/master/zy.json","name":"宝盒汇线"},
 {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json","name": "胖虎线路"},
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "你的微笑"},
 {"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧儿"}
 ]
 }
