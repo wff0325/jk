@@ -118,7 +118,7 @@
         },
         {
             "key": "Bili",
-            "name": "👓米-🅱哔哔┃收费接口都是骗子",
+            "name": "🅱哔哔┃收费接口都是骗子",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -133,7 +133,7 @@
         },
         {
             "key": "csp_WoGG",
-            "name": "👓米-玩偶┃4K(弹幕)",
+            "name": "玩偶┃4K(弹幕)",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -144,7 +144,7 @@
         },
         {
             "key": "世界",
-            "name": "👓米-世界┃聚合",
+            "name": "世界┃聚合",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -155,7 +155,7 @@
         },
         {
             "key": "csp_woggcli",
-            "name": "👓米-玩偶┃T4T4",
+            "name": "玩偶┃T4T4",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
             "searchable": 1,
@@ -164,7 +164,7 @@
         },
         {
             "key": "csp_77",
-            "name": "👓米-七七┃APP",
+            "name": "七七┃APP",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -174,7 +174,7 @@
         },
         {
             "key": "Xinsj",
-            "name": "👓米-视觉┃直连",
+            "name": "视觉┃直连",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -185,7 +185,7 @@
         },
         {
             "key": "saohuo",
-            "name": "👓米-骚火┃直连",
+            "name": "骚火┃直连",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -200,7 +200,7 @@
         },
         {
             "key": "ok",
-            "name": "👓米-Free┃BPQ",
+            "name": "Free┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -220,7 +220,7 @@
         },
         {
             "key": "Auete",
-            "name": "👓米-奥特┃直连",
+            "name": "奥特┃直连",
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
@@ -230,7 +230,7 @@
         },
         {
             "key": "Mino",
-            "name": "👓米-Mino┃App",
+            "name": "Mino┃App",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -241,7 +241,7 @@
         },
         {
             "key": "皮皮虾",
-            "name": "👓米-皮虾┃App",
+            "name": "皮虾┃App",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
@@ -252,7 +252,7 @@
         },
         {
             "key": "觅视频",
-            "name": "👓米-觅视┃App",
+            "name": "觅视┃App",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
@@ -263,7 +263,7 @@
         },
         {
             "key": "一念",
-            "name": "👓米-一念┃App",
+            "name": "一念┃App",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -274,7 +274,7 @@
         },
         {
             "key": "追忆影视",
-            "name": "👓米-追忆┃影视",
+            "name": "追忆┃影视",
             "type": 3,
             "jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879",
             "api": "csp_Appto",
@@ -283,7 +283,7 @@
         },
         {
             "key": "csp_XBP南坊",
-            "name": "👓米-南坊┃影视",
+            "name": "南坊┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -305,7 +305,7 @@
         },
         {
             "key": "csp_XBP美剧",
-            "name": "👓米-美剧┃影视",
+            "name": "美剧┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -328,7 +328,7 @@
         },
         {
             "key": "一起看 ",
-            "name": "👓米-一起┃App",
+            "name": "一起┃App",
             "type": 3,
             "api": "csp_YQKan",
             "searchable": 1,
@@ -338,7 +338,7 @@
         },
         {
             "key": "毛驴",
-            "name": "👓米-毛驴┃App",
+            "name": "毛驴┃App",
             "type": 3,
             "api": "csp_MLYS",
             "searchable": 1,
@@ -349,7 +349,7 @@
         },
         {
             "key": "csp_Czsapp",
-            "name": "👓米-️厂长┃直连",
+            "name": "️厂长┃直连",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
@@ -362,7 +362,7 @@
         },
         {
             "key": "csp_Nmys",
-            "name": "👓米-农民┃直连",
+            "name": "农民┃直连",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -373,7 +373,7 @@
         },
         {
             "key": "贱贱",
-            "name": "👓米-贱贱┃p2p",
+            "name": "贱贱┃p2p",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -384,7 +384,7 @@
         },
         {
             "key": "琪琪资源",
-            "name": "👓米-官源┃切片",
+            "name": "官源┃切片",
             "type": 1,
             "api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/",
             "playerType": 2,
@@ -400,7 +400,7 @@
         },
         {
             "key": "云播",
-            "name": "👓米-云播┃BPQ",
+            "name": "云播┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -422,7 +422,7 @@
         },
         {
             "key": "速映",
-            "name": "👓米-速映┃BPQ",
+            "name": "速映┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -442,7 +442,7 @@
         },
         {
             "key": "淘剧",
-            "name": "👓米-淘剧┃BPQ",
+            "name": "淘剧┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -468,7 +468,7 @@
         },
         {
             "key": "嘉靓",
-            "name": "👓米-嘉良┃影视",
+            "name": "嘉良┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "playerType": 2,
@@ -480,7 +480,7 @@
         },
         {
             "key": "速搜",
-            "name": "👓米-速搜┃BPQ",
+            "name": "速搜┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -508,7 +508,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "👓米-低端┃外剧",
+            "name": "低端┃外剧",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
@@ -518,7 +518,7 @@
         },
         {
             "key": "黑狐",
-            "name": "👓米-黑狐┃BPQ",
+            "name": "黑狐┃BPQ",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -548,7 +548,7 @@
         },
         {
             "key": "mougu",
-            "name": "👓米-蘑菇┃BPQ",
+            "name": "蘑菇┃BPQ",
             "type": 3,
             "changeable": 1,
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -569,7 +569,7 @@
         },
         {
             "key": "龟龟",
-            "name": "👓米-龟龟┃BPQ",
+            "name": "龟龟┃BPQ",
             "type": 3,
             "changeable": 1,
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -588,7 +588,7 @@
         },
         {
             "key": "双黄",
-            "name": "👓米-双黄┃BPQ",
+            "name": "双黄┃BPQ",
             "type": 3,
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
             "api": "csp_XBPQ",
@@ -603,7 +603,7 @@
         },
         {
             "key": "蜗牛",
-            "name": "👓米-蜗牛┃BPQ",
+            "name": "蜗牛┃BPQ",
             "type": 3,
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
             "api": "csp_XBPQ",
@@ -617,7 +617,7 @@
         },
         {
             "key": "热播库",
-            "name": "👓米-热播┃BPQ",
+            "name": "热播┃BPQ",
             "type": 3,
             "changeable": 1,
             "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
@@ -640,7 +640,7 @@
         },
         {
             "key": "爱迪",
-            "name": "👓米-爱迪┃外剧",
+            "name": "爱迪┃外剧",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -651,7 +651,7 @@
         },
         {
             "key": "dr_兔小贝",
-            "name": "👓米-儿童┃启蒙",
+            "name": "儿童┃启蒙",
             "type": 3,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -665,7 +665,7 @@
         },
         {
             "key": "虎牙直播js",
-            "name": "👓米-虎牙┃直播",
+            "name": "虎牙┃直播",
             "type": 3,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
@@ -679,7 +679,7 @@
         },
         {
             "key": "csp_XYQBiu_斗鱼",
-            "name": "👓米-斗鱼┃直播",
+            "name": "斗鱼┃直播",
             "type": 3,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
@@ -693,7 +693,7 @@
         },
         {
             "key": "csp_qiumi",
-            "name": "👓米-球迷┃球迷",
+            "name": "球迷┃球迷",
             "type": 3,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
@@ -707,7 +707,7 @@
         },
         {
             "key": "csp_310直播",
-            "name": "👓米-看球┃看球",
+            "name": "看球┃看球",
             "type": 3,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
@@ -721,7 +721,7 @@
         },
         {
             "key": "csp_XPath_企鹅体育",
-            "name": "👓米-企鹅┃体育",
+            "name": "企鹅┃体育",
             "type": 3,
             "api": "csp_XPath",
             "style": {
@@ -736,7 +736,7 @@
         },
         {
             "key": "索尼资源",
-            "name": "👓米-索尼┃资源",
+            "name": "索尼┃资源",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "categories": [
@@ -779,7 +779,7 @@
         },
         {
             "key": "YiSo",
-            "name": "👓米-易搜┃搜索",
+            "name": "易搜┃搜索",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -791,7 +791,7 @@
         },
         {
             "key": "Zhaozy",
-            "name": "👓米-🎉资源┃搜索",
+            "name": "🎉资源┃搜索",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -803,7 +803,7 @@
         },
         {
             "key": "PanSou",
-            "name": "👓米-盘搜┃搜索",
+            "name": "盘搜┃搜索",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -815,7 +815,7 @@
         },
         {
             "key": "UpYun",
-            "name": "👓米-Up搜┃搜索",
+            "name": "Up搜┃搜索",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -827,21 +827,21 @@
         },
         {
             "key": "drpy_js_荐片",
-            "name": "👓道-荐片 | 影视[js]",
+            "name": "荐片 | 影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
         },
         {
             "key": "drpy_js_爱看机器人",
-            "name": "👓道-爱看 | 机器[js]",
+            "name": "爱看 | 机器[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
         },
         {
             "key": "csp_阿里七夜",
-            "name": "👓道-阿里 ┃ 七夜[4K]",
+            "name": "阿里 ┃ 七夜[4K]",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
@@ -852,7 +852,7 @@
         },
         {
             "key": "csp_TuGou",
-            "name": "👓道-阿里 ┃ 土狗[4K]",
+            "name": "阿里 ┃ 土狗[4K]",
             "type": 3,
             "api": "csp_TuGou",
             "searchable": 1,
@@ -863,7 +863,7 @@
         },
         {
             "key": "PanSearch",
-            "name": "👓道-阿里 ┃ PanS[4K]",
+            "name": "阿里 ┃ PanS[4K]",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -874,7 +874,7 @@
         },
         {
             "key": "Upyunso",
-            "name": "👓道-阿里 ┃ 云搜[4K]",
+            "name": "阿里 ┃ 云搜[4K]",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -885,7 +885,7 @@
         },
         {
             "key": "Alips",
-            "name": "👓道-阿里 ┃ 盘搜[4K]",
+            "name": "阿里 ┃ 盘搜[4K]",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -896,14 +896,14 @@
         },
         {
             "key": "drpy_js_我的哔哩",
-            "name": "👓道-B站 | 合集[js]",
+            "name": "B站 | 合集[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"
         },
         {
             "key": "AList",
-            "name": "👓道-网盘 | Alist[jar]",
+            "name": "网盘 | Alist[jar]",
             "type": 3,
             "api": "csp_AList",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
@@ -911,420 +911,420 @@
         },
         {
             "key": "drpy_js_Alist",
-            "name": "👓道-网盘 | Alist[js]",
+            "name": "网盘 | Alist[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
         },
         {
             "key": "drpy_js_360影视",
-            "name": "👓道-官源 | 360[js]",
+            "name": "官源 | 360[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
         },
         {
             "key": "drpy_js_奇珍异兽",
-            "name": "👓道-官源 | 爱奇艺[js]",
+            "name": "官源 | 爱奇艺[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
         },
         {
             "key": "drpy_js_优酷",
-            "name": "👓道-官源 | 优酷[js]",
+            "name": "官源 | 优酷[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
-            "name": "👓道-官源 | 腾讯[js]",
+            "name": "官源 | 腾讯[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
         },
         {
             "key": "drpy_js_百忙无果",
-            "name": "👓道-官源 | 芒果[js]",
+            "name": "官源 | 芒果[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
         },
         {
             "key": "drpy_js_菜狗",
-            "name": "👓道-官源 | 搜狗[js]",
+            "name": "官源 | 搜狗[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
         },
         {
             "key": "drpy_js_人人",
-            "name": "👓道-影视 | 人人[js]",
+            "name": "影视 | 人人[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人.js"
         },
         {
             "key": "drpy_js_低端",
-            "name": "👓道-影视 | 低端[js]",
+            "name": "影视 | 低端[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ddys.js"
         },
         {
             "key": "drpy_js_农民",
-            "name": "👓道-影视 | 农民[js]",
+            "name": "影视 | 农民[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
         },
         {
             "key": "drpy_js_大豆",
-            "name": "👓道-影视 | 大豆[js]",
+            "name": "影视 | 大豆[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"
         },
         {
             "key": "drpy_js_九酷",
-            "name": "👓道-影视 | 九酷[js]",
+            "name": "影视 | 九酷[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/九酷.js"
         },
         {
             "key": "drpy_js_l0l",
-            "name": "👓道-影视 | l0l[js]",
+            "name": "影视 | l0l[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/l0l.js"
         },
         {
             "key": "drpy_js_网飞.TV",
-            "name": "👓道-影视 | 网飞.TV[js]",
+            "name": "影视 | 网飞.TV[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
         },
         {
             "key": "drpy_js_乐猪TV",
-            "name": "👓道-影视 | 乐猪TV[js]",
+            "name": "影视 | 乐猪TV[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/乐猪TV.js"
         },
         {
             "key": "drpy_js_六度TV",
-            "name": "👓道-影视 | 六度TV[js]",
+            "name": "影视 | 六度TV[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六度TV.js"
         },
         {
             "key": "drpy_js_花猫TV",
-            "name": "👓道-影视 | 花猫TV[js]",
+            "name": "影视 | 花猫TV[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/花猫TV.js"
         },
         {
             "key": "drpy_js_TV云播",
-            "name": "👓道-影视 | TV云播[js]",
+            "name": "影视 | TV云播[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/tva云播.js"
         },
         {
             "key": "drpy_js_真不卡",
-            "name": "👓道-影视 | 真不卡[js]",
+            "name": "影视 | 真不卡[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/真不卡.js"
         },
         {
             "key": "drpy_js_新片场",
-            "name": "👓道-影视 | 新片场[js]",
+            "name": "影视 | 新片场[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新片场.js"
         },
         {
             "key": "drpy_js_皮皮鸭",
-            "name": "👓道-影视 | 皮皮鸭[js]",
+            "name": "影视 | 皮皮鸭[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/皮皮鸭.js"
         },
         {
             "key": "drpy_js_慢大浪",
-            "name": "👓道-影视 | 慢大浪[js]",
+            "name": "影视 | 慢大浪[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/慢大浪.js"
         },
         {
             "key": "drpy_js_看看屋",
-            "name": "👓道-影视 | 看看屋[js]",
+            "name": "影视 | 看看屋[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看看屋.js"
         },
         {
             "key": "drpy_js_哔哩兔",
-            "name": "👓道-影视 | 哔哩兔[js]",
+            "name": "影视 | 哔哩兔[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩兔.js"
         },
         {
             "key": "drpy_js_追剧兔",
-            "name": "👓道-影视 | 追剧兔[js]",
+            "name": "影视 | 追剧兔[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧兔.js"
         },
         {
             "key": "drpy_js_影渣渣",
-            "name": "👓道-影视 | 影渣渣[js]",
+            "name": "影视 | 影渣渣[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
         },
         {
             "key": "drpy_js_柒之社",
-            "name": "👓道-影视 | 柒之社[js]",
+            "name": "影视 | 柒之社[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/柒之社.js"
         },
         {
             "key": "drpy_js_免费看",
-            "name": "👓道-影视 | 免费看[js]",
+            "name": "影视 | 免费看[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
         },
         {
             "key": "drpy_js_小猫咪",
-            "name": "👓道-影视 | 小猫咪[js]",
+            "name": "影视 | 小猫咪[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小猫咪.js"
         },
         {
             "key": "drpy_js_看韩剧",
-            "name": "👓道-影视 | 看韩剧[js]",
+            "name": "影视 | 看韩剧[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看韩剧.js"
         },
         {
             "key": "drpy_js_追剧迷",
-            "name": "👓道-影视 | 追剧迷[js]",
+            "name": "影视 | 追剧迷[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
         },
         {
             "key": "drpy_js_91free",
-            "name": "👓道-影视 | 91free[js]",
+            "name": "影视 | 91free[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/91free.js"
         },
         {
             "key": "drpy_js_LIBVIO",
-            "name": "👓道-影视 | LIBVIO[js]",
+            "name": "影视 | LIBVIO[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
         },
         {
             "key": "drpy_js_HDmoli",
-            "name": "👓道-影视 | HDmoli[js]",
+            "name": "影视 | HDmoli[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
         },
         {
             "key": "drpy_js_Voflix",
-            "name": "👓道-影视 | Voflix[js]",
+            "name": "影视 | Voflix[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
         },
         {
             "key": "drpy_js_UM电影",
-            "name": "👓道-影视 | UM电影[js]",
+            "name": "影视 | UM电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/UM电影.js"
         },
         {
             "key": "drpy_js_开眼视频",
-            "name": "👓道-影视 | 开眼视频[js]",
+            "name": "影视 | 开眼视频[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/开眼视频.js"
         },
         {
             "key": "drpy_js_豆巴影视",
-            "name": "👓道-影视 | 豆巴影视[js]",
+            "name": "影视 | 豆巴影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/豆巴影视.js"
         },
         {
             "key": "drpy_js_米爱影视",
-            "name": "👓道-影视 | 米爱影视[js]",
+            "name": "影视 | 米爱影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
         },
         {
             "key": "drpy_js_星空影视",
-            "name": "👓道-影视 | 星空影视[js]",
+            "name": "影视 | 星空影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/星空影视.js"
         },
         {
             "key": "drpy_js_秋霞影视",
-            "name": "👓道-影视 | 秋霞影视[js]",
+            "name": "影视 | 秋霞影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞影视.js"
         },
         {
             "key": "drpy_js_无名小站",
-            "name": "👓道-影视 | 无名小站[js]",
+            "name": "影视 | 无名小站[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/无名小站.js"
         },
         {
             "key": "drpy_js_小狗影院",
-            "name": "👓道-影视 | 小狗影院[js]",
+            "name": "影视 | 小狗影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
         },
         {
             "key": "drpy_js_酷客影院",
-            "name": "👓道-影视 | 酷客影院[js]",
+            "name": "影视 | 酷客影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"
         },
         {
             "key": "drpy_js_奇优影院",
-            "name": "👓道-影视 | 奇优影院[js]",
+            "name": "影视 | 奇优影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
         },
         {
             "key": "drpy_js_厂长资源",
-            "name": "👓道-影视 | 厂长资源[js]",
+            "name": "影视 | 厂长资源[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/厂长资源.js"
         },
         {
             "key": "drpy_js_在线之家",
-            "name": "👓道-影视 | 在线之家[js]",
+            "name": "影视 | 在线之家[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"
         },
         {
             "key": "drpy_js_饭团电影",
-            "name": "👓道-影视 | 饭团电影[js]",
+            "name": "影视 | 饭团电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/饭团影视.js"
         },
         {
             "key": "drpy_js_酷云七七",
-            "name": "👓道-影视 | 酷云七七[js]",
+            "name": "影视 | 酷云七七[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
         },
         {
             "key": "drpy_js_骚火电影",
-            "name": "👓道-影视 | 骚火电影[js]",
+            "name": "影视 | 骚火电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/骚火.js"
         },
         {
             "key": "drpy_js_闪影影院",
-            "name": "👓道-影视 | 闪影影院[js]",
+            "name": "影视 | 闪影影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/闪影影院.js"
         },
         {
             "key": "drpy_js_电影先生",
-            "name": "👓道-影视 | 电影先生[js]",
+            "name": "影视 | 电影先生[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"
         },
         {
             "key": "drpy_js_冷曦影视",
-            "name": "👓道-影视 | 冷曦影视[js]",
+            "name": "影视 | 冷曦影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/冷曦影视.js"
         },
         {
             "key": "drpy_js_秋霞影院",
-            "name": "👓道-影视 | 秋霞影院[js]",
+            "name": "影视 | 秋霞影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
         },
         {
             "key": "drpy_js_凌云影视",
-            "name": "👓道-影视 | 凌云影视[js]",
+            "name": "影视 | 凌云影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/凌云影视.js"
         },
         {
             "key": "drpy_js_兄弟影视",
-            "name": "👓道-影视 | 兄弟影视[js]",
+            "name": "影视 | 兄弟影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兄弟影视.js"
         },
         {
             "key": "drpy_js_零度影视",
-            "name": "👓道-影视 | 零度影视[js]",
+            "name": "影视 | 零度影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/零度影视.js"
         },
         {
             "key": "drpy_js_B站影视",
-            "name": "👓道-影视 | B站影视[js]",
+            "name": "影视 | B站影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/B站影视.js"
         },
         {
             "key": "drpy_js_哔哩影视",
-            "name": "👓道-影视 | 哔哩影视[js]",
+            "name": "影视 | 哔哩影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
         },
         {
             "key": "drpy_js_JangoIndex",
-            "name": "👓道-音频 | JangoIndex[js]",
+            "name": "音频 | JangoIndex[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JangoIndex.js",
@@ -1332,7 +1332,7 @@
         },
         {
             "key": "drpy_js_DJ音乐",
-            "name": "👓道-音频 | DJ音乐[js]",
+            "name": "音频 | DJ音乐[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/DJ音乐.js",
@@ -1340,7 +1340,7 @@
         },
         {
             "key": "drpy_js_啦啦DJ",
-            "name": "👓道-音频 | 啦啦DJ[js]",
+            "name": "音频 | 啦啦DJ[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/苹果DJ.js",
@@ -1348,7 +1348,7 @@
         },
         {
             "key": "drpy_js_清风DJ",
-            "name": "👓道-音频 | 清风DJ[js]",
+            "name": "音频 | 清风DJ[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/清风DJ.js",
@@ -1356,14 +1356,14 @@
         },
         {
             "key": "drpy_js_种子音乐",
-            "name": "👓道-音频 | 种子音乐[js]",
+            "name": "音频 | 种子音乐[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/种子音乐.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
-            "name": "👓道-广播 | 蜻蜓FM[js]",
+            "name": "广播 | 蜻蜓FM[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
@@ -1371,7 +1371,7 @@
         },
         {
             "key": "drpy_js_相声随身听",
-            "name": "👓道-相声 | 相声随身听[js]",
+            "name": "相声 | 相声随身听[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js",
@@ -1379,7 +1379,7 @@
         },
         {
             "key": "drpy_js_i275听书",
-            "name": "👓道-听书 | i275听书[js]",
+            "name": "听书 | i275听书[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/i275听书.js",
@@ -1387,7 +1387,7 @@
         },
         {
             "key": "drpy_js_喜马拉雅",
-            "name": "👓道-听书 | 喜马拉雅[js]",
+            "name": "听书 | 喜马拉雅[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js",
@@ -1395,7 +1395,7 @@
         },
         {
             "key": "drpy_js_六月听书",
-            "name": "👓道-听书 | 六月听书[js]",
+            "name": "听书 | 六月听书[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js",
@@ -1403,7 +1403,7 @@
         },
         {
             "key": "drpy_js_博看听书",
-            "name": "👓道-听书 | 博看听书[js]",
+            "name": "听书 | 博看听书[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js",
@@ -1411,7 +1411,7 @@
         },
         {
             "key": "drpy_js_海洋听书",
-            "name": "👓道-听书 | 海洋听书[js]",
+            "name": "听书 | 海洋听书[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/海洋听书.js",
@@ -1419,7 +1419,7 @@
         },
         {
             "key": "drpy_js_听书网",
-            "name": "👓道-听书 | 听书网[js]",
+            "name": "听书 | 听书网[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/听书网.js",
@@ -1427,7 +1427,7 @@
         },
         {
             "key": "drpy_js_有声小说",
-            "name": "👓道-听书 | 有声小说[js]",
+            "name": "听书 | 有声小说[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js",
@@ -1435,371 +1435,371 @@
         },
         {
             "key": "drpy_js_短视频",
-            "name": "👓道-聚合 | 短视频[js]",
+            "name": "聚合 | 短视频[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"
         },
         {
             "key": "drpy_js_酷6网",
-            "name": "👓道-聚合 | 酷6网[js]",
+            "name": "聚合 | 酷6网[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷6网.js"
         },
         {
             "key": "drpy_js_网易公版影像",
-            "name": "👓道-聚合 | 网易公版影像[js]",
+            "name": "聚合 | 网易公版影像[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
         },
         {
             "key": "drpy_js_A8音乐",
-            "name": "👓道-MV | A8音乐[js]",
+            "name": "MV | A8音乐[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
         },
         {
             "key": "drpy_js_MV263",
-            "name": "👓道-MV | 263[js]",
+            "name": "MV | 263[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/MV263.js"
         },
         {
             "key": "drpy_js_苹果DJ",
-            "name": "👓道-MV | 苹果DJ[js]",
+            "name": "MV | 苹果DJ[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/苹果DJ.js"
         },
         {
             "key": "drpy_js_酷狗MV",
-            "name": "👓道-MV | 酷狗[js]",
+            "name": "MV | 酷狗[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"
         },
         {
             "key": "drpy_js_酷奇MV",
-            "name": "👓道-MV | 酷奇[js]",
+            "name": "MV | 酷奇[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"
         },
         {
             "key": "drpy_js_音悦网",
-            "name": "👓道-MV | 音悦网[js]",
+            "name": "MV | 音悦网[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"
         },
         {
             "key": "drpy_js_哔哩直播",
-            "name": "👓道-直播 | 哔哩[js]",
+            "name": "直播 | 哔哩[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
         },
         {
             "key": "drpy_js_斗鱼直播",
-            "name": "👓道-直播 | 斗鱼[js]",
+            "name": "直播 | 斗鱼[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
         },
         {
             "key": "drpy_js_虎牙直播",
-            "name": "👓道-直播 | 虎牙[js]",
+            "name": "直播 | 虎牙[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
         },
         {
             "key": "drpy_js_JustLive",
-            "name": "👓道-直播 | JustLive[js]",
+            "name": "直播 | JustLive[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
         },
         {
             "key": "drpy_js_JRKAN直播",
-            "name": "👓道-体育 | JRKAN直播[js]",
+            "name": "体育 | JRKAN直播[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
         },
         {
             "key": "drpy_js_88看球",
-            "name": "👓道-体育 | 88看球[js]",
+            "name": "体育 | 88看球[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
         },
         {
             "key": "drpy_js_310直播",
-            "name": "👓道-体育 | 310直播[js]",
+            "name": "体育 | 310直播[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"
         },
         {
             "key": "drpy_js_爱弹幕",
-            "name": "👓道-动漫 | 爱弹幕[js]",
+            "name": "动漫 | 爱弹幕[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱弹幕.js"
         },
         {
             "key": "drpy_js_兔小贝",
-            "name": "👓道-动漫 | 兔小贝[js]",
+            "name": "动漫 | 兔小贝[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
         },
         {
             "key": "drpy_js_AnFuns",
-            "name": "👓道-动漫 | AnFuns[js]",
+            "name": "动漫 | AnFuns[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/AnFuns.js"
         },
         {
             "key": "drpy_js_NT动漫",
-            "name": "👓道-动漫 | NT动漫[js]",
+            "name": "动漫 | NT动漫[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NT动漫.js"
         },
         {
             "key": "drpy_js_动漫岛",
-            "name": "👓道-动漫 | 动漫岛[js]",
+            "name": "动漫 | 动漫岛[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/动漫岛.js"
         },
         {
             "key": "drpy_js_路漫漫",
-            "name": "👓道-动漫 | 路漫漫[js]",
+            "name": "动漫 | 路漫漫[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/路漫漫.js"
         },
         {
             "key": "drpy_js_去看吧",
-            "name": "👓道-动漫 | 去看吧[js]",
+            "name": "动漫 | 去看吧[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/去看吧.js"
         },
         {
             "key": "drpy_js_咕噜咕噜",
-            "name": "👓道-动漫 | 咕噜咕噜[js]",
+            "name": "动漫 | 咕噜咕噜[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜咕噜.js"
         },
         {
             "key": "drpy_js_嘶哩嘶哩",
-            "name": "👓道-动漫 | 嘶哩嘶哩[js]",
+            "name": "动漫 | 嘶哩嘶哩[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.js"
         },
         {
             "key": "drpy_js_奇米动漫",
-            "name": "👓道-动漫 | 奇米动漫[js]",
+            "name": "动漫 | 奇米动漫[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇米动漫.js"
         },
         {
             "key": "drpy_js_妮可动漫",
-            "name": "👓道-动漫 | 妮可动漫[js]",
+            "name": "动漫 | 妮可动漫[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/妮可动漫.js"
         },
         {
             "key": "drpy_js_怡萱动漫",
-            "name": "👓道-动漫 | 怡萱动漫[js]",
+            "name": "动漫 | 怡萱动漫[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/怡萱动漫.js"
         },
         {
             "key": "drpy_js_异世界动漫",
-            "name": "👓道-动漫 | 异世界动漫[js]",
+            "name": "动漫 | 异世界动漫[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/异世界动漫.js"
         },
         {
             "key": "drpy_js_omofun动漫",
-            "name": "👓道-动漫 | omofun动漫[js]",
+            "name": "动漫 | omofun动漫[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/omofun动漫.js"
         },
         {
             "key": "drpy_js_007影视",
-            "name": "👓道-影视 | 007影视[js]",
+            "name": "影视 | 007影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/007影视.js"
         },
         {
             "key": "drpy_js_1080P",
-            "name": "👓道-影视 | 1080P[js]",
+            "name": "影视 | 1080P[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/1080P.js"
         },
         {
             "key": "drpy_js_139影视",
-            "name": "👓道-影视 | 139影视[js]",
+            "name": "影视 | 139影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"
         },
         {
             "key": "drpy_js_333影视",
-            "name": "👓道-影视 | 333影视[js]",
+            "name": "影视 | 333影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/333影视.js"
         },
         {
             "key": "drpy_js_345看片",
-            "name": "👓道-影视 | 345看片[js]",
+            "name": "影视 | 345看片[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"
         },
         {
             "key": "drpy_js_555影视[V2]",
-            "name": "👓道-影视 | 555影视[V2][js]",
+            "name": "影视 | 555影视[V2][js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555影视[V2].js"
         },
         {
             "key": "drpy_js_69美剧",
-            "name": "👓道-影视 | 69美剧[js]",
+            "name": "影视 | 69美剧[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
         },
         {
             "key": "drpy_js_8号影院",
-            "name": "👓道-影视 | 8号影院[js]",
+            "name": "影视 | 8号影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/8号影院.js"
         },
         {
             "key": "drpy_js_9U电影",
-            "name": "👓道-影视 | 9U电影[js]",
+            "name": "影视 | 9U电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/9U电影.js"
         },
         {
             "key": "drpy_js_FreeOK",
-            "name": "👓道-影视 | FreeOK[js]",
+            "name": "影视 | FreeOK[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/FreeOK.js"
         },
         {
             "key": "drpy_js_KOK影视",
-            "name": "👓道-影视 | KOK影视[js]",
+            "name": "影视 | KOK影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/KOK影院.js"
         },
         {
             "key": "drpy_js_NY影院",
-            "name": "👓道-影视 | NY影院[js]",
+            "name": "影视 | NY影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"
         },
         {
             "key": "drpy_js_vidhub",
-            "name": "👓道-影视 | vidhub[js]",
+            "name": "影视 | vidhub[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/vidhub.js"
         },
         {
             "key": "drpy_js_爱迪影视",
-            "name": "👓道-影视 | 爱迪影视[js]",
+            "name": "影视 | 爱迪影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱迪影视.js"
         },
         {
             "key": "drpy_js_爱看电影",
-            "name": "👓道-影视 | 爱看电影[js]",
+            "name": "影视 | 爱看电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"
         },
         {
             "key": "drpy_js_八蛋影视",
-            "name": "👓道-影视 | 八蛋影视[js]",
+            "name": "影视 | 八蛋影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/八蛋影视.js"
         },
         {
             "key": "drpy_js_布雷蓝光",
-            "name": "👓道-影视 | 布雷蓝光[js]",
+            "name": "影视 | 布雷蓝光[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/布雷蓝光.js"
         },
         {
             "key": "drpy_js_超前点播",
-            "name": "👓道-影视 | 超前点播[js]",
+            "name": "影视 | 超前点播[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/超前点播.js"
         },
         {
             "key": "drpy_js_尘落影视",
-            "name": "👓道-影视 | 尘落影视[js]",
+            "name": "影视 | 尘落影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/尘落影视.js"
         },
         {
             "key": "drpy_js_楚门影院",
-            "name": "👓道-影视 | 楚门影院[js]",
+            "name": "影视 | 楚门影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"
         },
         {
             "key": "drpy_js_大米星球",
-            "name": "👓道-影视 | 大米星球[js]",
+            "name": "影视 | 大米星球[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大米星球.js"
         },
         {
             "key": "drpy_js_大师兄影视",
-            "name": "👓道-影视 | 大师兄影视[js]",
+            "name": "影视 | 大师兄影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
         },
         {
             "key": "drpy_js_多瑙影视",
-            "name": "👓道-影视 | 多瑙影视[js]",
+            "name": "影视 | 多瑙影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js",
@@ -1807,252 +1807,252 @@
         },
         {
             "key": "drpy_js_番茄影视",
-            "name": "👓道-影视 | 番茄影视[js]",
+            "name": "影视 | 番茄影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/番茄影视.js"
         },
         {
             "key": "drpy_js_浮生半日",
-            "name": "👓道-影视 | 浮生半日[js]",
+            "name": "影视 | 浮生半日[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/浮生半日.js"
         },
         {
             "key": "drpy_js_金曼影视",
-            "name": "👓道-影视 | 金曼影视[js]",
+            "name": "影视 | 金曼影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
         },
         {
             "key": "drpy_js_看看电影",
-            "name": "👓道-影视 | 看看电影[js]",
+            "name": "影视 | 看看电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看看电影.js"
         },
         {
             "key": "drpy_js_看了么",
-            "name": "👓道-影视 | 看了么[js]",
+            "name": "影视 | 看了么[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"
         },
         {
             "key": "drpy_js_来看点播",
-            "name": "👓道-影视 | 来看点播[js]",
+            "name": "影视 | 来看点播[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/来看点播.js"
         },
         {
             "key": "drpy_js_蓝光影院",
-            "name": "👓道-影视 | 蓝光影院[js]",
+            "name": "影视 | 蓝光影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蓝光影院.js"
         },
         {
             "key": "drpy_js_利丽娅电影",
-            "name": "👓道-影视 | 利丽娅电影[js]",
+            "name": "影视 | 利丽娅电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/利丽娅电影.js"
         },
         {
             "key": "drpy_js_麦豆网",
-            "name": "👓道-影视 | 麦豆网[js]",
+            "name": "影视 | 麦豆网[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/麦豆.js"
         },
         {
             "key": "drpy_js_麦豆com",
-            "name": "👓道-影视 | 麦豆com[js]",
+            "name": "影视 | 麦豆com[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/麦豆com.js"
         },
         {
             "key": "drpy_js_美视网",
-            "name": "👓道-影视 | 美视网[js]",
+            "name": "影视 | 美视网[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/美视网.js"
         },
         {
             "key": "drpy_js_萌蛋蛋[V2]",
-            "name": "👓道-影视 | 萌蛋蛋[V2][js]",
+            "name": "影视 | 萌蛋蛋[V2][js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/萌蛋蛋[V2].js"
         },
         {
             "key": "drpy_js_莫扎兔儿",
-            "name": "👓道-影视 | 莫扎兔儿[js]",
+            "name": "影视 | 莫扎兔儿[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/莫扎兔.js"
         },
         {
             "key": "drpy_js_南柯电影",
-            "name": "👓道-影视 | 南柯电影[js]",
+            "name": "影视 | 南柯电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/南柯电影网.js"
         },
         {
             "key": "drpy_js_胖虎影视",
-            "name": "👓道-影视 | 胖虎影视[js]",
+            "name": "影视 | 胖虎影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"
         },
         {
             "key": "drpy_js_起飞影院",
-            "name": "👓道-影视 | 起飞影院[js]",
+            "name": "影视 | 起飞影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
         },
         {
             "key": "drpy_js_人人影视",
-            "name": "👓道-影视 | 人人影视[js]",
+            "name": "影视 | 人人影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"
         },
         {
             "key": "drpy_js_盛世电影",
-            "name": "👓道-影视 | 盛世电影[js]",
+            "name": "影视 | 盛世电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/盛世电影网.js"
         },
         {
             "key": "drpy_js_视觉影院",
-            "name": "👓道-影视 | 视觉影院[js]",
+            "name": "影视 | 视觉影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影院.js"
         },
         {
             "key": "drpy_js_首播影院",
-            "name": "👓道-影视 | 首播影院[js]",
+            "name": "影视 | 首播影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/首播影院.js"
         },
         {
             "key": "drpy_js_双十电影",
-            "name": "👓道-影视 | 双十电影[js]",
+            "name": "影视 | 双十电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/双十电影.js"
         },
         {
             "key": "drpy_js_四个圈儿",
-            "name": "👓道-影视 | 四个圈儿[js]",
+            "name": "影视 | 四个圈儿[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"
         },
         {
             "key": "drpy_js_天空影视",
-            "name": "👓道-影视 | 天空影视[js]",
+            "name": "影视 | 天空影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/天空影视.js"
         },
         {
             "key": "drpy_js_我爱电影",
-            "name": "👓道-影视 | 我爱电影[js]",
+            "name": "影视 | 我爱电影[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我爱电影网.js"
         },
         {
             "key": "drpy_js_我爱跟剧",
-            "name": "👓道-影视 | 我爱跟剧[js]",
+            "name": "影视 | 我爱跟剧[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我爱跟剧.js"
         },
         {
             "key": "drpy_js_溪谷影视",
-            "name": "👓道-影视 | 溪谷影视[js]",
+            "name": "影视 | 溪谷影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/溪谷影视.js"
         },
         {
             "key": "drpy_js_小白菜儿",
-            "name": "👓道-影视 | 小白菜儿[js]",
+            "name": "影视 | 小白菜儿[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.js"
         },
         {
             "key": "drpy_js_星辰影院",
-            "name": "👓道-影视 | 星辰影院[js]",
+            "name": "影视 | 星辰影院[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/星辰.js"
         },
         {
             "key": "drpy_js_伊人追剧",
-            "name": "👓道-影视 | 伊人追剧[js]",
+            "name": "影视 | 伊人追剧[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/伊人追剧.js"
         },
         {
             "key": "drpy_js_子子影视",
-            "name": "👓道-影视 | 子子影视[js]",
+            "name": "影视 | 子子影视[js]",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
         },
         {
             "key": "爱奇异",
-            "name": "👓车-🚛爱奇艺(官)",
+            "name": "🚛爱奇艺(官)",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/aiqiyi.js"
         },
         {
             "key": "优酷",
-            "name": "👓车-🚛优酷(官)",
+            "name": "🚛优酷(官)",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/youku.js"
         },
         {
             "key": "腾讯",
-            "name": "👓车-🚛腾讯(官)",
+            "name": "🚛腾讯(官)",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/tengxun.js"
         },
         {
             "key": "芒果",
-            "name": "👓车-🚛芒果(官)",
+            "name": "🚛芒果(官)",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/mangguo.js"
         },
         {
             "key": "搜狗",
-            "name": "👓车-🚛搜狗(官)",
+            "name": "🚛搜狗(官)",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/caigou.js"
         },
         {
             "key": "360影视",
-            "name": "👓车-🚛360影视(官)",
+            "name": "🚛360影视(官)",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -2063,7 +2063,7 @@
         },
         {
             "key": "py_cctv",
-            "name": "👓车-🚛CCTV",
+            "name": "🚛CCTV",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -2073,7 +2073,7 @@
         },
         {
             "key": "t4_wo",
-            "name": "👓车-🚛玩偶┃T4",
+            "name": "🚛玩偶┃T4",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
             "searchable": 1,
@@ -2082,7 +2082,7 @@
         },
         {
             "key": "影探4K",
-            "name": "👓车-🚛影探┃4K",
+            "name": "🚛影探┃4K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2093,7 +2093,7 @@
         },
         {
             "key": "酷影",
-            "name": "👓车-🚛酷影┃4K",
+            "name": "🚛酷影┃4K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2104,7 +2104,7 @@
         },
         {
             "key": "天天视频",
-            "name": "👓车-🚛天天┃4K",
+            "name": "🚛天天┃4K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2115,7 +2115,7 @@
         },
         {
             "key": "阿里云盘网",
-            "name": "👓车-🚛云盘网┃4K",
+            "name": "🚛云盘网┃4K",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -2126,7 +2126,7 @@
         },
         {
             "key": "6V磁力",
-            "name": "👓车-🚛6V磁┃4K",
+            "name": "🚛6V磁┃4K",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -2137,7 +2137,7 @@
         },
         {
             "key": "电影港",
-            "name": "👓车-🚛DYG磁┃4K",
+            "name": "🚛DYG磁┃4K",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -2148,7 +2148,7 @@
         },
         {
             "key": "4KHDR",
-            "name": "👓车-🚛HDR磁┃4K",
+            "name": "🚛HDR磁┃4K",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -2159,7 +2159,7 @@
         },
         {
             "key": "玉米",
-            "name": "👓车-🚛玉米┃2K",
+            "name": "🚛玉米┃2K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2170,7 +2170,7 @@
         },
         {
             "key": "圣城影视",
-            "name": "👓车-🚛圣城┃2K",
+            "name": "🚛圣城┃2K",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2181,7 +2181,7 @@
         },
         {
             "key": "速映影视",
-            "name": "👓车-🚛速映┃2K",
+            "name": "🚛速映┃2K",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2192,7 +2192,7 @@
         },
         {
             "key": "笑笑影视",
-            "name": "👓车-🚛笑笑┃2K",
+            "name": "🚛笑笑┃2K",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2203,7 +2203,7 @@
         },
         {
             "key": "蘑菇影视",
-            "name": "👓车-🚛蘑菇┃2K",
+            "name": "🚛蘑菇┃2K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2214,7 +2214,7 @@
         },
         {
             "key": "乐猪影视",
-            "name": "👓车-🚛乐猪┃2K",
+            "name": "🚛乐猪┃2K",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2225,7 +2225,7 @@
         },
         {
             "key": "达达龟",
-            "name": "👓车-🚛达龟┃2K",
+            "name": "🚛达龟┃2K",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2237,7 +2237,7 @@
         },
         {
             "key": "蚂蚁",
-            "name": "👓车-🚛蚂蚁┃秒播",
+            "name": "🚛蚂蚁┃秒播",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2248,7 +2248,7 @@
         },
         {
             "key": "365",
-            "name": "👓车-🚛365┃秒播",
+            "name": "🚛365┃秒播",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2259,7 +2259,7 @@
         },
         {
             "key": "348影视",
-            "name": "👓车-🚛348┃秒播",
+            "name": "🚛348┃秒播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2270,14 +2270,14 @@
         },
         {
             "key": "畅梦",
-            "name": "👓车-🚛畅梦┃秒播",
+            "name": "🚛畅梦┃秒播",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/changmeng.js"
         },
         {
             "key": "农民影视",
-            "name": "👓车-🚛农民┃秒播",
+            "name": "🚛农民┃秒播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2288,7 +2288,7 @@
         },
         {
             "key": "子子影视",
-            "name": "👓车-🚛子子┃秒播",
+            "name": "🚛子子┃秒播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2299,14 +2299,14 @@
         },
         {
             "key": "荐片",
-            "name": "👓车-🚛荐片┃秒播",
+            "name": "🚛荐片┃秒播",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/jianpian.js"
         },
         {
             "key": "酷云77",
-            "name": "👓车-🚛酷云┃秒播",
+            "name": "🚛酷云┃秒播",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -2316,7 +2316,7 @@
         },
         {
             "key": "厂长",
-            "name": "👓车-🚛厂长┃秒播",
+            "name": "🚛厂长┃秒播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2327,7 +2327,7 @@
         },
         {
             "key": "鸿运当头",
-            "name": "👓车-🚛鸿运┃秒播",
+            "name": "🚛鸿运┃秒播",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2338,7 +2338,7 @@
         },
         {
             "key": "低端影视",
-            "name": "👓车-🚛低端┃秒播",
+            "name": "🚛低端┃秒播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2349,21 +2349,21 @@
         },
         {
             "key": "在线之家",
-            "name": "👓车-🚛外剧┃秒播",
+            "name": "🚛外剧┃秒播",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/zaixian.js"
         },
         {
             "key": "素白白",
-            "name": "👓车-🚛素白┃秒播",
+            "name": "🚛素白┃秒播",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/subaibai.js"
         },
         {
             "key": "徕米影视",
-            "name": "👓车-🚛徕米影视",
+            "name": "🚛徕米影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2375,7 +2375,7 @@
         },
         {
             "key": "速看",
-            "name": "👓车-🚛速看100",
+            "name": "🚛速看100",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2386,7 +2386,7 @@
         },
         {
             "key": "饭团影视",
-            "name": "👓车-🚛饭团高清",
+            "name": "🚛饭团高清",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2398,7 +2398,7 @@
         },
         {
             "key": "1080蓝光",
-            "name": "👓车-🚛1080蓝光",
+            "name": "🚛1080蓝光",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2409,7 +2409,7 @@
         },
         {
             "key": "皮皮鸭",
-            "name": "👓车-🚛皮皮鸭",
+            "name": "🚛皮皮鸭",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -2420,7 +2420,7 @@
         },
         {
             "key": "TVB云播",
-            "name": "👓车-🚛TVB云播",
+            "name": "🚛TVB云播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2431,14 +2431,14 @@
         },
         {
             "key": "爱看机器人",
-            "name": "👓车-🚛爱看机器",
+            "name": "🚛爱看机器",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/ikanbot.js"
         },
         {
             "key": "明帝影视",
-            "name": "👓车-🚛明帝影视",
+            "name": "🚛明帝影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2449,7 +2449,7 @@
         },
         {
             "key": "爱迪影视",
-            "name": "👓车-🚛爱迪影视",
+            "name": "🚛爱迪影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://api123.adys.app/xgapp.php/v3/",
@@ -2457,7 +2457,7 @@
         },
         {
             "key": "大豆高清",
-            "name": "👓车-🚛大豆高清",
+            "name": "🚛大豆高清",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2468,7 +2468,7 @@
         },
         {
             "key": "灰太狼",
-            "name": "👓车-🚛灰太狼",
+            "name": "🚛灰太狼",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2479,7 +2479,7 @@
         },
         {
             "key": "555影视",
-            "name": "👓车-🚛555蓝光",
+            "name": "🚛555蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2490,7 +2490,7 @@
         },
         {
             "key": "热播之家",
-            "name": "👓车-🚛热播之家",
+            "name": "🚛热播之家",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -2501,7 +2501,7 @@
         },
         {
             "key": "HDmoli",
-            "name": "👓车-🚛魔力高清",
+            "name": "🚛魔力高清",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2512,7 +2512,7 @@
         },
         {
             "key": "爱看影院",
-            "name": "👓车-🚛爱看影院",
+            "name": "🚛爱看影院",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -2524,7 +2524,7 @@
         },
         {
             "key": "策驰影院",
-            "name": "👓车-🚛策驰影院",
+            "name": "🚛策驰影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2535,7 +2535,7 @@
         },
         {
             "key": "csp_Voflix",
-            "name": "👓车-🚛Voflix",
+            "name": "🚛Voflix",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2546,7 +2546,7 @@
         },
         {
             "key": "🚛宝仙HD",
-            "name": "👓车-🚛宝仙HD",
+            "name": "🚛宝仙HD",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2557,14 +2557,14 @@
         },
         {
             "key": "101影院",
-            "name": "👓车-🚛101影院",
+            "name": "🚛101影院",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/l0l.js"
         },
         {
             "key": "Vidhub视频",
-            "name": "👓车-🚛视频库",
+            "name": "🚛视频库",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2575,7 +2575,7 @@
         },
         {
             "key": "石榴影视",
-            "name": "👓车-🚛石榴影视",
+            "name": "🚛石榴影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2586,14 +2586,14 @@
         },
         {
             "key": "可乐",
-            "name": "👓车-🚛可乐",
+            "name": "🚛可乐",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/cokemv.js"
         },
         {
             "key": "两个BT",
-            "name": "👓车-🚛两个BT",
+            "name": "🚛两个BT",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2604,7 +2604,7 @@
         },
         {
             "key": "csp_AppYsV2",
-            "name": "👓车-🚛69美剧",
+            "name": "🚛69美剧",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2615,14 +2615,14 @@
         },
         {
             "key": "大师兄影视",
-            "name": "👓车-🚛大师兄影视",
+            "name": "🚛大师兄影视",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/dashixiongyingshi.js"
         },
         {
             "key": "七年影视",
-            "name": "👓车-🚛七年影视",
+            "name": "🚛七年影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2634,7 +2634,7 @@
         },
         {
             "key": "看看剧",
-            "name": "👓车-🚛看看剧",
+            "name": "🚛看看剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2645,7 +2645,7 @@
         },
         {
             "key": "lzi",
-            "name": "👓车-🚛量子资源",
+            "name": "🚛量子资源",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2656,7 +2656,7 @@
         },
         {
             "key": "非凡资源",
-            "name": "👓车-🚛非凡资源",
+            "name": "🚛非凡资源",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2667,21 +2667,21 @@
         },
         {
             "key": "拳皇争霸",
-            "name": "👓车-🚛拳皇争霸",
+            "name": "🚛拳皇争霸",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/quanhuang.js"
         },
         {
             "key": "喜马拉雅",
-            "name": "👓车-👂喜马拉雅",
+            "name": "👂喜马拉雅",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/ximalaya.js"
         },
         {
             "key": "有声小说吧",
-            "name": "👓车-👂有声小说吧",
+            "name": "👂有声小说吧",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -2692,14 +2692,14 @@
         },
         {
             "key": "海洋听书",
-            "name": "👓车-👂海洋听书",
+            "name": "👂海洋听书",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "ext": "https://weixine.net/js/haiyangtingshu.js"
         },
         {
             "key": "纸条",
-            "name": "👓车-🖥纸条搜索",
+            "name": "🖥纸条搜索",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
@@ -2709,7 +2709,7 @@
         },
         {
             "key": "阿里云盘",
-            "name": "👓车-🖥阿里云盘",
+            "name": "🖥阿里云盘",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
@@ -2719,7 +2719,7 @@
         },
         {
             "key": "易搜",
-            "name": "👓车-🖥易搜",
+            "name": "🖥易搜",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -2729,7 +2729,7 @@
         },
         {
             "key": "盘搜",
-            "name": "👓车-🖥盘搜",
+            "name": "🖥盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -2739,7 +2739,7 @@
         },
         {
             "key": "UP云搜",
-            "name": "👓车-🖥UP云搜",
+            "name": "🖥UP云搜",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -2749,7 +2749,7 @@
         },
         {
             "key": "找资源",
-            "name": "👓车-🖥找资源",
+            "name": "🖥找资源",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -2760,7 +2760,7 @@
         },
         {
             "key": "网盘搜索",
-            "name": "👓车-🖥网盘搜索",
+            "name": "🖥网盘搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -2770,7 +2770,7 @@
         },
         {
             "key": "土拨鼠",
-            "name": "👓车-🖥土拨鼠搜索",
+            "name": "🖥土拨鼠搜索",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -2781,7 +2781,7 @@
         },
         {
             "key": "我的小站",
-            "name": "👓车-🖥小站搜索",
+            "name": "🖥小站搜索",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -2792,7 +2792,7 @@
         },
         {
             "key": "云盘分享",
-            "name": "👓车-🖥云盘分享",
+            "name": "🖥云盘分享",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
@@ -2803,7 +2803,7 @@
         },
         {
             "key": "push_agent",
-            "name": "👓车-🍭推送",
+            "name": "🍭推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
@@ -2813,7 +2813,7 @@
         },
         {
             "key": "兔小贝",
-            "name": "👓车-🐰兔小贝",
+            "name": "🐰兔小贝",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "searchable": 1,
@@ -2823,7 +2823,7 @@
         },
         {
             "key": "高中教育",
-            "name": "👓车-📚学习园地",
+            "name": "📚学习园地",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -2834,7 +2834,7 @@
         },
         {
             "key": "学外语",
-            "name": "👓车-📚学外语",
+            "name": "📚学外语",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -2845,7 +2845,7 @@
         },
         {
             "key": "哔哩哔哩",
-            "name": "👓车-🅱️哔哩大全",
+            "name": "🅱️哔哩大全",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -2856,7 +2856,7 @@
         },
         {
             "key": "相声小品",
-            "name": "👓车-🏮相声小品",
+            "name": "🏮相声小品",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -2867,7 +2867,7 @@
         },
         {
             "key": "戏 曲",
-            "name": "👓车-🎈国粹戏曲",
+            "name": "🎈国粹戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -2878,7 +2878,7 @@
         },
         {
             "key": "演唱会",
-            "name": "👓车-🎸演唱会",
+            "name": "🎸演唱会",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -2889,7 +2889,7 @@
         },
         {
             "key": "csp_XBPQ_短视频",
-            "name": "👓车-☘️短视频",
+            "name": "☘️短视频",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 0,
@@ -2900,7 +2900,7 @@
         },
         {
             "key": "88看球",
-            "name": "👓车-⚽88看球",
+            "name": "⚽88看球",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "searchable": 0,
@@ -2910,7 +2910,7 @@
         },
         {
             "key": "JRKAN直播",
-            "name": "👓车-⚽JRKAN直播",
+            "name": "⚽JRKAN直播",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -2921,7 +2921,7 @@
         },
         {
             "key": "虎牙直播",
-            "name": "👓车-🐯虎牙直播",
+            "name": "🐯虎牙直播",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "searchable": 0,
@@ -2931,7 +2931,7 @@
         },
         {
             "key": "斗鱼直播",
-            "name": "👓车-🐟斗鱼直播",
+            "name": "🐟斗鱼直播",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "searchable": 0,
@@ -2941,7 +2941,7 @@
         },
         {
             "key": "csp_Yj1211",
-            "name": "👓车-📽️在线直播",
+            "name": "📽️在线直播",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 0,
@@ -2951,7 +2951,7 @@
         },
         {
             "key": "哔哩直播",
-            "name": "👓车-🅱️哔哩直播",
+            "name": "🅱️哔哩直播",
             "type": 3,
             "api": "https://weixine.net/js/lib/drpy2.min.js",
             "searchable": 0,
@@ -2961,7 +2961,7 @@
         },
         {
             "key": "MV_vod",
-            "name": "👓车-🎸明星┃MV",
+            "name": "🎸明星┃MV",
             "type": 1,
             "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
             "searchable": 1,
@@ -2970,7 +2970,7 @@
         },
         {
             "key": "csp_xpath_kuqimv",
-            "name": "👓车-🎤酷奇MV",
+            "name": "🎤酷奇MV",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -2981,7 +2981,7 @@
         },
         {
             "key": "Wogg",
-            "name": "👓秀-🅱️玩偶哥哥|T追剧",
+            "name": "🅱️玩偶哥哥|T追剧",
             "type": 3,
             "api": "csp_XPathAli",
             "searchable": 1,
@@ -2992,7 +2992,7 @@
         },
         {
             "key": "csp_乐猪",
-            "name": "👓秀-🅱️乐猪影视|T追剧",
+            "name": "🅱️乐猪影视|T追剧",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -3003,7 +3003,7 @@
         },
         {
             "key": "csp_花猫",
-            "name": "👓秀-🅱️花猫影视|T追剧",
+            "name": "🅱️花猫影视|T追剧",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -3014,7 +3014,7 @@
         },
         {
             "key": "csp_xBPQ_玖八",
-            "name": "👓秀-🅱️玖八影视|T追剧",
+            "name": "🅱️玖八影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3025,7 +3025,7 @@
         },
         {
             "key": "csp_星辰",
-            "name": "👓秀-🅱️星辰影视|T追剧",
+            "name": "🅱️星辰影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3036,7 +3036,7 @@
         },
         {
             "key": "csp_xBPQ_蜗牛",
-            "name": "👓秀-🅱️蜗牛影视|T追剧",
+            "name": "🅱️蜗牛影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3047,7 +3047,7 @@
         },
         {
             "key": "csp_盒子",
-            "name": "👓秀-🅱️电影盒子|T追剧",
+            "name": "🅱️电影盒子|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3058,7 +3058,7 @@
         },
         {
             "key": "csp_干饭",
-            "name": "👓秀-🅱️干饭影视|T追剧",
+            "name": "🅱️干饭影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3069,7 +3069,7 @@
         },
         {
             "key": "csp_xBPQ_疯狗",
-            "name": "👓秀-🅱️疯狗影视|T追剧",
+            "name": "🅱️疯狗影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3080,7 +3080,7 @@
         },
         {
             "key": "csp_午舞",
-            "name": "👓秀-🅱️午舞影视|T追剧",
+            "name": "🅱️午舞影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3091,7 +3091,7 @@
         },
         {
             "key": "csp_师兄",
-            "name": "👓秀-🅱️师兄影视|T追剧",
+            "name": "🅱️师兄影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3102,7 +3102,7 @@
         },
         {
             "key": "csp_xBPQ_奇优",
-            "name": "👓秀-🅱️奇优影视|T追剧",
+            "name": "🅱️奇优影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3113,7 +3113,7 @@
         },
         {
             "key": "csp_七七",
-            "name": "👓秀-🅱️七七影视|T追剧",
+            "name": "🅱️七七影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3124,7 +3124,7 @@
         },
         {
             "key": "csp_笑笑",
-            "name": "👓秀-🅱️笑笑影视|T追剧",
+            "name": "🅱️笑笑影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3135,7 +3135,7 @@
         },
         {
             "key": "csp_老蟹",
-            "name": "👓秀-🅱️老蟹影视|T追剧",
+            "name": "🅱️老蟹影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3146,7 +3146,7 @@
         },
         {
             "key": "csp_午夜",
-            "name": "👓秀-🅱️午夜影视|T追剧",
+            "name": "🅱️午夜影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3157,7 +3157,7 @@
         },
         {
             "key": "csp_农民",
-            "name": "👓秀-🅱️农民影视|T追剧",
+            "name": "🅱️农民影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3168,7 +3168,7 @@
         },
         {
             "key": "csp_好戏",
-            "name": "👓秀-🅱️好戏影视|T追剧",
+            "name": "🅱️好戏影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3179,7 +3179,7 @@
         },
         {
             "key": "csp_Free",
-            "name": "👓秀-🅱️Free影视|T追剧",
+            "name": "🅱️Free影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3190,7 +3190,7 @@
         },
         {
             "key": "csp_热播",
-            "name": "👓秀-🅱️热播之家|T追剧",
+            "name": "🅱️热播之家|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3201,7 +3201,7 @@
         },
         {
             "key": "csp_七月",
-            "name": "👓秀-🅱️七月影视|T追剧",
+            "name": "🅱️七月影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3212,7 +3212,7 @@
         },
         {
             "key": "csp_日后",
-            "name": "👓秀-🅱️日后影视|T追剧",
+            "name": "🅱️日后影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3223,7 +3223,7 @@
         },
         {
             "key": "csp_淘剧",
-            "name": "👓秀-🅱️淘剧影院|T追剧",
+            "name": "🅱️淘剧影院|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3234,7 +3234,7 @@
         },
         {
             "key": "csp_TVB",
-            "name": "👓秀-🅱️TVB云播|T追剧",
+            "name": "🅱️TVB云播|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3245,7 +3245,7 @@
         },
         {
             "key": "csp_光棍",
-            "name": "👓秀-🅱️光棍影视|T追剧",
+            "name": "🅱️光棍影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3256,7 +3256,7 @@
         },
         {
             "key": "csp_101",
-            "name": "👓秀-🅱️摇玲影视|T追剧",
+            "name": "🅱️摇玲影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3267,7 +3267,7 @@
         },
         {
             "key": "csp_圣城",
-            "name": "👓秀-🅱️圣城影视|T追剧",
+            "name": "🅱️圣城影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3278,7 +3278,7 @@
         },
         {
             "key": "csp_土豪",
-            "name": "👓秀-🅱️土豪影视|T追剧",
+            "name": "🅱️土豪影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3289,7 +3289,7 @@
         },
         {
             "key": "csp_兔年",
-            "name": "👓秀-🅱️兔年影视|T追剧",
+            "name": "🅱️兔年影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3300,7 +3300,7 @@
         },
         {
             "key": "csp_345",
-            "name": "👓秀-🅱️看片影视|T追剧",
+            "name": "🅱️看片影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3311,7 +3311,7 @@
         },
         {
             "key": "csp_七年",
-            "name": "👓秀-🅱️七年影视|T追剧",
+            "name": "🅱️七年影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3322,7 +3322,7 @@
         },
         {
             "key": "csp_酷茶",
-            "name": "👓秀-🅱️酷茶影视|T追剧",
+            "name": "🅱️酷茶影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3333,7 +3333,7 @@
         },
         {
             "key": "csp_蛋蛋",
-            "name": "👓秀-🅱️蛋蛋影视|T追剧",
+            "name": "🅱️蛋蛋影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3344,7 +3344,7 @@
         },
         {
             "key": "csp_黑狐",
-            "name": "👓秀-🅱️黑狐影视|T追剧",
+            "name": "🅱️黑狐影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3355,7 +3355,7 @@
         },
         {
             "key": "csp_苹果",
-            "name": "👓秀-🅱️苹果影视|T追剧",
+            "name": "🅱️苹果影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3366,7 +3366,7 @@
         },
         {
             "key": "csp_米爱",
-            "name": "👓秀-🅱️米爱影视|T追剧",
+            "name": "🅱️米爱影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3377,7 +3377,7 @@
         },
         {
             "key": "csp_子子",
-            "name": "👓秀-🅱️紫梓影视|T追剧",
+            "name": "🅱️紫梓影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3388,7 +3388,7 @@
         },
         {
             "key": "csp_非凡",
-            "name": "👓秀-🅱️非凡资源|T追剧",
+            "name": "🅱️非凡资源|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3399,7 +3399,7 @@
         },
         {
             "key": "csp_量子",
-            "name": "👓秀-🅱️量子资源|T追剧",
+            "name": "🅱️量子资源|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3410,14 +3410,14 @@
         },
         {
             "key": "js_搜狗",
-            "name": "👓秀-🅱️搜狗官源|T追剧",
+            "name": "🅱️搜狗官源|T追剧",
             "type": 3,
             "api": "http://rihou.cc:88/./hccx/Api.js",
             "ext": "http://rihou.cc:88/./hccx/搜狗官源.js"
         },
         {
             "key": "Gitcafe",
-            "name": "👓秀-🔍阿里|纸条搜",
+            "name": "🔍阿里|纸条搜",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
@@ -3428,7 +3428,7 @@
         },
         {
             "key": "cctv",
-            "name": "👓秀-📺央视｜大全",
+            "name": "📺央视｜大全",
             "type": 3,
             "api": "csp_CCTV",
             "searchable": 0,
@@ -3438,7 +3438,7 @@
         },
         {
             "key": "py_cctv_少儿",
-            "name": "👓秀-📺央视｜少儿",
+            "name": "📺央视｜少儿",
             "type": 3,
             "api": "py_cctv_full",
             "searchable": 0,
@@ -3448,7 +3448,7 @@
         },
         {
             "key": "央视经典",
-            "name": "👓秀-📺央视｜经典",
+            "name": "📺央视｜经典",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3459,7 +3459,7 @@
         },
         {
             "key": "py_cctv_企鹅",
-            "name": "👓秀-📺体育｜直播",
+            "name": "📺体育｜直播",
             "type": 3,
             "api": "py_cctv_full",
             "searchable": 0,
@@ -3469,7 +3469,7 @@
         },
         {
             "key": "mtv_xp_动漫巴士",
-            "name": "👓秀-🐼动漫丨巴士",
+            "name": "🐼动漫丨巴士",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3480,7 +3480,7 @@
         },
         {
             "key": "mtv_xp_维奇动漫",
-            "name": "👓秀-🐼维奇丨动漫",
+            "name": "🐼维奇丨动漫",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3491,7 +3491,7 @@
         },
         {
             "key": "csp_短剧",
-            "name": "👓秀-🎧刷刷｜短剧",
+            "name": "🎧刷刷｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3502,7 +3502,7 @@
         },
         {
             "key": "哔哩音乐",
-            "name": "👓秀-🎧哔哩｜音乐",
+            "name": "🎧哔哩｜音乐",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3513,7 +3513,7 @@
         },
         {
             "key": "小灯塔科学",
-            "name": "👓秀-🌏小灯塔科学",
+            "name": "🌏小灯塔科学",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3524,7 +3524,7 @@
         },
         {
             "key": "小灯塔地理",
-            "name": "👓秀-🌏小灯塔地理",
+            "name": "🌏小灯塔地理",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3535,7 +3535,7 @@
         },
         {
             "key": "小灯塔百科",
-            "name": "👓秀-🌏小灯塔百科",
+            "name": "🌏小灯塔百科",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3546,7 +3546,7 @@
         },
         {
             "key": "小灯塔国学",
-            "name": "👓秀-🌏小灯塔国学",
+            "name": "🌏小灯塔国学",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3557,7 +3557,7 @@
         },
         {
             "key": "幼儿教育",
-            "name": "👓秀-🅱幼小｜衔接",
+            "name": "🅱幼小｜衔接",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3568,7 +3568,7 @@
         },
         {
             "key": "哔哩小学",
-            "name": "👓秀-🅱小学｜教育",
+            "name": "🅱小学｜教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3579,7 +3579,7 @@
         },
         {
             "key": "哔哩初中",
-            "name": "👓秀-🅱初中｜教育",
+            "name": "🅱初中｜教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3590,7 +3590,7 @@
         },
         {
             "key": "哔哩高中",
-            "name": "👓秀-🅱高中｜教育",
+            "name": "🅱高中｜教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3601,7 +3601,7 @@
         },
         {
             "key": "兴趣健身",
-            "name": "👓秀-🅱兴趣｜健身",
+            "name": "🅱兴趣｜健身",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3612,7 +3612,7 @@
         },
         {
             "key": "天下美食",
-            "name": "👓秀-🅱天下｜美食",
+            "name": "🅱天下｜美食",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3623,7 +3623,7 @@
         },
         {
             "key": "戏曲杂苑",
-            "name": "👓秀-🅱戏曲｜杂苑",
+            "name": "🅱戏曲｜杂苑",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3634,7 +3634,7 @@
         },
         {
             "key": "泥巴",
-            "name": "👓蜜-泥巴",
+            "name": "泥巴",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -3643,7 +3643,7 @@
         },
         {
             "key": "星星",
-            "name": "👓蜜-星星",
+            "name": "星星",
             "type": 3,
             "api": "csp_Star",
             "searchable": 1,
@@ -3652,7 +3652,7 @@
         },
         {
             "key": "玩偶",
-            "name": "👓蜜-玩偶",
+            "name": "玩偶",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -3665,7 +3665,7 @@
         },
         {
             "key": "賤賤",
-            "name": "👓蜜-賤賤",
+            "name": "賤賤",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
@@ -3675,7 +3675,7 @@
         },
         {
             "key": "獨播",
-            "name": "👓蜜-獨播",
+            "name": "獨播",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -3685,7 +3685,7 @@
         },
         {
             "key": "五五",
-            "name": "👓蜜-五五",
+            "name": "五五",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
             "searchable": 1,
@@ -3693,7 +3693,7 @@
         },
         {
             "key": "haiwaikan",
-            "name": "👓蜜-海外看",
+            "name": "海外看",
             "type": 1,
             "api": "https://haiwaikan.com/api.php/provide/vod",
             "searchable": 1,
@@ -3735,7 +3735,7 @@
         },
         {
             "key": "新6V",
-            "name": "👓蜜-新6V",
+            "name": "新6V",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
@@ -3744,7 +3744,7 @@
         },
         {
             "key": "暴風",
-            "name": "👓蜜-暴風",
+            "name": "暴風",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -3752,7 +3752,7 @@
         },
         {
             "key": "索尼",
-            "name": "👓蜜-索尼 ",
+            "name": "索尼 ",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -3760,7 +3760,7 @@
         },
         {
             "key": "快帆",
-            "name": "👓蜜-快帆",
+            "name": "快帆",
             "type": 1,
             "api": "https://api.kuaifan.tv/api.php/provide/vod",
             "searchable": 1,
@@ -3768,7 +3768,7 @@
         },
         {
             "key": "量子",
-            "name": "👓蜜-量子",
+            "name": "量子",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -3776,7 +3776,7 @@
         },
         {
             "key": "櫻花",
-            "name": "👓蜜-櫻花",
+            "name": "櫻花",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
@@ -3785,7 +3785,7 @@
         },
         {
             "key": "巴士",
-            "name": "👓蜜-巴士",
+            "name": "巴士",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -3794,7 +3794,7 @@
         },
         {
             "key": "異界",
-            "name": "👓蜜-異界",
+            "name": "異界",
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
@@ -3803,7 +3803,7 @@
         },
         {
             "key": "哔哩",
-            "name": "👓蜜-哔哩",
+            "name": "哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -3821,7 +3821,7 @@
         },
         {
             "key": "bili_open",
-            "name": "👓蜜-哔哩貓",
+            "name": "哔哩貓",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
             "searchable": 1,
@@ -3833,7 +3833,7 @@
         },
         {
             "key": "酷狗",
-            "name": "👓蜜-酷狗",
+            "name": "酷狗",
             "type": 3,
             "api": "csp_Kugou",
             "searchable": 0,
@@ -3842,7 +3842,7 @@
         },
         {
             "key": "本地",
-            "name": "👓蜜-本地",
+            "name": "本地",
             "type": 3,
             "api": "csp_Local",
             "searchable": 0,
@@ -3851,7 +3851,7 @@
         },
         {
             "key": "WebDAV",
-            "name": "👓蜜-WebDAV",
+            "name": "WebDAV",
             "type": 3,
             "api": "csp_WebDAV",
             "searchable": 1,
@@ -3861,7 +3861,7 @@
         },
         {
             "key": "七夜",
-            "name": "👓蜜-七夜",
+            "name": "七夜",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
@@ -3870,7 +3870,7 @@
         },
         {
             "key": "雲搜",
-            "name": "👓蜜-雲搜",
+            "name": "雲搜",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -3879,7 +3879,7 @@
         },
         {
             "key": "盤搜",
-            "name": "👓蜜-盤搜",
+            "name": "盤搜",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -3888,7 +3888,7 @@
         },
         {
             "key": "紙條搜",
-            "name": "👓蜜-紙條搜",
+            "name": "紙條搜",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
@@ -3897,7 +3897,7 @@
         },
         {
             "key": "盤搜索",
-            "name": "👓蜜-盤搜索",
+            "name": "盤搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -3906,7 +3906,7 @@
         },
         {
             "key": "找資源",
-            "name": "👓蜜-找資源",
+            "name": "找資源",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -3916,7 +3916,7 @@
         },
         {
             "key": "應用商店",
-            "name": "👓蜜-應用商店",
+            "name": "應用商店",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -3926,7 +3926,7 @@
         },
         {
             "key": "csp_YGP",
-            "name": "👓裙-🚀叨观荐影",
+            "name": "🚀叨观荐影",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0,
@@ -3937,7 +3937,7 @@
         },
         {
             "key": "农民",
-            "name": "👓裙-🥝农民",
+            "name": "🥝农民",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3948,7 +3948,7 @@
         },
         {
             "key": "csp_YQKan",
-            "name": "👓裙-🌎一起看",
+            "name": "🌎一起看",
             "type": 3,
             "api": "csp_YQKan",
             "searchable": 1,
@@ -3958,7 +3958,7 @@
         },
         {
             "key": "布雷",
-            "name": "👓裙-⚡布雷",
+            "name": "⚡布雷",
             "type": 3,
             "api": "csp_AppMao",
             "playerType": 2,
@@ -3970,7 +3970,7 @@
         },
         {
             "key": "热剧猫",
-            "name": "👓裙-🐱热剧猫",
+            "name": "🐱热剧猫",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -3981,7 +3981,7 @@
         },
         {
             "key": "追忆",
-            "name": "👓裙-🐿追忆",
+            "name": "🐿追忆",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
@@ -3993,7 +3993,7 @@
         },
         {
             "key": "csp_Kunyu77",
-            "name": "👓裙-👒酷云七七",
+            "name": "👒酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -4003,7 +4003,7 @@
         },
         {
             "key": "csp_Zxzj",
-            "name": "👓裙-🏠在线之家",
+            "name": "🏠在线之家",
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
@@ -4014,7 +4014,7 @@
         },
         {
             "key": "csp_Auete",
-            "name": "👓裙-🐼奥特",
+            "name": "🐼奥特",
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
@@ -4025,7 +4025,7 @@
         },
         {
             "key": "csp_MYYS",
-            "name": "👓裙-🐜蚂蚁",
+            "name": "🐜蚂蚁",
             "type": 3,
             "api": "csp_MYYS",
             "searchable": 1,
@@ -4036,7 +4036,7 @@
         },
         {
             "key": "csp_MLYS",
-            "name": "👓裙-🐴毛驴",
+            "name": "🐴毛驴",
             "type": 3,
             "api": "csp_MLYS",
             "searchable": 1,
@@ -4048,7 +4048,7 @@
         },
         {
             "key": "迷你库",
-            "name": "👓裙-Ⓜ️迷你库",
+            "name": "Ⓜ️迷你库",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -4059,7 +4059,7 @@
         },
         {
             "key": "csp_Xinsj",
-            "name": "👓裙-✨新视觉",
+            "name": "✨新视觉",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -4070,7 +4070,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "👓裙-🚗可乐",
+            "name": "🚗可乐",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -4080,7 +4080,7 @@
         },
         {
             "key": "csp_Bttwoo",
-            "name": "👓裙-✌比特",
+            "name": "✌比特",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -4090,7 +4090,7 @@
         },
         {
             "key": "csp_Lib",
-            "name": "👓裙-🔷LibVio",
+            "name": "🔷LibVio",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -4101,7 +4101,7 @@
         },
         {
             "key": "csp_Kuaikan",
-            "name": "👓裙-👀快看",
+            "name": "👀快看",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -4111,7 +4111,7 @@
         },
         {
             "key": "360",
-            "name": "👓裙-💘360",
+            "name": "💘360",
             "type": 3,
             "api": "csp_SP33",
             "searchable": 1,
@@ -4122,7 +4122,7 @@
         },
         {
             "key": "csp_SixV",
-            "name": "👓裙-🧲新6V",
+            "name": "🧲新6V",
             "type": 3,
             "api": "csp_SixV",
             "searchable": 1,
@@ -4133,7 +4133,7 @@
         },
         {
             "key": "csp_Anime1",
-            "name": "👓裙-🌸动漫",
+            "name": "🌸动漫",
             "type": 3,
             "api": "csp_Anime1",
             "searchable": 1,
@@ -4143,7 +4143,7 @@
         },
         {
             "key": "csp_Dm84",
-            "name": "👓裙-🚌动漫巴士",
+            "name": "🚌动漫巴士",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -4153,7 +4153,7 @@
         },
         {
             "key": "Ying",
-            "name": "👓裙-🌸樱花动漫",
+            "name": "🌸樱花动漫",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
@@ -4163,7 +4163,7 @@
         },
         {
             "key": "csp_Ysj",
-            "name": "👓裙-📮异世界",
+            "name": "📮异世界",
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
@@ -4173,7 +4173,7 @@
         },
         {
             "key": "Aid",
-            "name": "👓裙-🚑急救教学",
+            "name": "🚑急救教学",
             "type": 3,
             "api": "csp_FirstAid",
             "searchable": 0,
@@ -4184,7 +4184,7 @@
         },
         {
             "key": "Dovx",
-            "name": "👓裙-😾七夜",
+            "name": "😾七夜",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
@@ -4196,7 +4196,7 @@
         },
         {
             "key": "csp_Nbys",
-            "name": "👓裙-👑泥巴(墙外)",
+            "name": "👑泥巴(墙外)",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -4206,7 +4206,7 @@
         },
         {
             "key": "csp_trj",
-            "name": "👓裙-🛫唐人街(墙外)",
+            "name": "🛫唐人街(墙外)",
             "type": 3,
             "api": "csp_Tangrenjie",
             "searchable": 1,
@@ -4216,7 +4216,7 @@
         },
         {
             "key": "dr_荐片",
-            "name": "👓裙-🧲荐片",
+            "name": "🧲荐片",
             "type": 3,
             "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "playerType": "1",
@@ -4227,7 +4227,7 @@
         },
         {
             "key": "乐猪",
-            "name": "👓裙-💢乐猪",
+            "name": "💢乐猪",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -4238,7 +4238,7 @@
         },
         {
             "key": "奇优",
-            "name": "👓裙-️💢奇优",
+            "name": "️💢奇优",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -4249,7 +4249,7 @@
         },
         {
             "key": "短剧网",
-            "name": "👓裙-💢短剧网",
+            "name": "💢短剧网",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -4260,7 +4260,7 @@
         },
         {
             "key": "Freeok",
-            "name": "👓裙-💢Freeok",
+            "name": "💢Freeok",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -4283,7 +4283,7 @@
         },
         {
             "key": "drpy_js_有声小说吧",
-            "name": "👓裙-有声小说吧",
+            "name": "有声小说吧",
             "type": 3,
             "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "playerType": "2",
@@ -4294,7 +4294,7 @@
         },
         {
             "key": "csp_Bili",
-            "name": "👓裙-🅱️哔哩哔哩",
+            "name": "🅱️哔哩哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4305,7 +4305,7 @@
         },
         {
             "key": "戏曲",
-            "name": "👓裙-🅱️戏曲",
+            "name": "🅱️戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4316,7 +4316,7 @@
         },
         {
             "key": "少儿",
-            "name": "👓裙-🅱️少儿",
+            "name": "🅱️少儿",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4327,7 +4327,7 @@
         },
         {
             "key": "小学",
-            "name": "👓裙-🅱️小学",
+            "name": "🅱️小学",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4338,7 +4338,7 @@
         },
         {
             "key": "初中",
-            "name": "👓裙-🅱️初中",
+            "name": "🅱️初中",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4349,7 +4349,7 @@
         },
         {
             "key": "高中",
-            "name": "👓裙-🅱️高中",
+            "name": "🅱️高中",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4360,14 +4360,14 @@
         },
         {
             "key": "直播转点播",
-            "name": "👓猫-🐼️┃电视┃直播",
+            "name": "🐼️┃电视┃直播",
             "type": 3,
             "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
             "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
         },
         {
             "key": " 短剧┃网",
-            "name": "👓猫-⏯️┃短剧┃视频",
+            "name": "⏯️┃短剧┃视频",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/短剧网.js",
@@ -4379,7 +4379,7 @@
         },
         {
             "key": " 在线┃直播1",
-            "name": "👓猫-📺┃竞技┃直播",
+            "name": "📺┃竞技┃直播",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 1,
@@ -4389,7 +4389,7 @@
         },
         {
             "key": " 在线┃直播2",
-            "name": "👓猫-😍┃网红┃直播",
+            "name": "😍┃网红┃直播",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/JustLive.js",
@@ -4401,7 +4401,7 @@
         },
         {
             "key": "alist",
-            "name": "👓猫-🍰┃小鸭┃网盘",
+            "name": "🍰┃小鸭┃网盘",
             "type": 3,
             "api": "csp_AList",
             "searchable": 1,
@@ -4412,7 +4412,7 @@
         },
         {
             "key": "影探VIP",
-            "name": "👓猫-🚄┃影探┃影视",
+            "name": "🚄┃影探┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -4423,7 +4423,7 @@
         },
         {
             "key": "迷你影视",
-            "name": "👓猫-🐼┃肥肥┃影视",
+            "name": "🐼┃肥肥┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -4434,7 +4434,7 @@
         },
         {
             "key": "小赞影视",
-            "name": "👓猫-🐼┃猫猫┃影视",
+            "name": "🐼┃猫猫┃影视",
             "type": 1,
             "playerType": 1,
             "api": "http://zy.xzam.cn/api.php/provide/vod/",
@@ -4451,7 +4451,7 @@
         },
         {
             "key": "鑫鑫影视",
-            "name": "👓猫-🐼┃宝宝┃影视",
+            "name": "🐼┃宝宝┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -4462,7 +4462,7 @@
         },
         {
             "key": "csp_电影",
-            "name": "👓猫-🐼┃贝贝┃影视",
+            "name": "🐼┃贝贝┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://app.dianyi.ng/api.php/v1.vod",
@@ -4472,7 +4472,7 @@
         },
         {
             "key": "图图影视",
-            "name": "👓猫-🐇┃图图┃影视",
+            "name": "🐇┃图图┃影视",
             "type": 3,
             "jar": "http://我不是.肥猫.love:63/Jar/fm1018.jar;md5;77a7f4d8c203027fe8e07c916276e879",
             "api": "csp_APPTT",
@@ -4483,7 +4483,7 @@
         },
         {
             "key": "布蕾影视",
-            "name": "👓猫-🌺┃布蕾┃影视",
+            "name": "🌺┃布蕾┃影视",
             "jar": "http://我不是.肥猫.love:63/Jar/fm1018.jar;md5;77a7f4d8c203027fe8e07c916276e879",
             "type": 3,
             "api": "csp_Appto",
@@ -4492,7 +4492,7 @@
         },
         {
             "key": "橘子",
-            "name": "👓猫-🍊┃橘子┃影视",
+            "name": "🍊┃橘子┃影视",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -4503,7 +4503,7 @@
         },
         {
             "key": "伊人",
-            "name": "👓猫-💡┃伊人┃影视",
+            "name": "💡┃伊人┃影视",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -4514,7 +4514,7 @@
         },
         {
             "key": "YGP",
-            "name": "👓猫-🚀┃叨观┃荐影",
+            "name": "🚀┃叨观┃荐影",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0,
@@ -4523,7 +4523,7 @@
         },
         {
             "key": "磁力熊",
-            "name": "👓猫-🐻┃熊熊┃磁力",
+            "name": "🐻┃熊熊┃磁力",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/磁力熊.js",
@@ -4533,7 +4533,7 @@
         },
         {
             "key": "素白",
-            "name": "👓猫-🤖┃素白┃影视",
+            "name": "🤖┃素白┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "http://我不是.肥猫.love:63/json/素白白.json",
@@ -4541,7 +4541,7 @@
         },
         {
             "key": "虎虎",
-            "name": "👓猫-🐯┃虎虎┃影视",
+            "name": "🐯┃虎虎┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "http://我不是.肥猫.love:63/json/虎虎.json",
@@ -4549,7 +4549,7 @@
         },
         {
             "key": "蜗牛2",
-            "name": "👓猫-🐌┃蜗牛┃影视",
+            "name": "🐌┃蜗牛┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "playStartTime": 15,
@@ -4567,7 +4567,7 @@
         },
         {
             "key": "豌豆荚",
-            "name": "👓猫-🥔┃豌豆┃影视",
+            "name": "🥔┃豌豆┃影视",
             "type": 1,
             "api": "https://ks.wandouzy.cc/api.php/provide/vod/",
             "categories": [
@@ -4594,7 +4594,7 @@
         },
         {
             "key": "YQK_spider",
-            "name": "👓猫-🙆┃一起┃电视",
+            "name": "🙆┃一起┃电视",
             "type": 3,
             "api": "csp_YQKan",
             "searchable": 1,
@@ -4604,7 +4604,7 @@
         },
         {
             "key": "七七",
-            "name": "👓猫-🌈┃七七┃影视",
+            "name": "🌈┃七七┃影视",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -4614,7 +4614,7 @@
         },
         {
             "key": "csp_FanYY",
-            "name": "👓猫-👲┃玩偶┃影视",
+            "name": "👲┃玩偶┃影视",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -4625,7 +4625,7 @@
         },
         {
             "key": "csp_AppMr",
-            "name": "👓猫-👻┃明明┃影视",
+            "name": "👻┃明明┃影视",
             "type": 3,
             "api": "csp_AppMr",
             "searchable": 1,
@@ -4635,7 +4635,7 @@
         },
         {
             "key": "奇奇",
-            "name": "👓猫-🐭┃迷迷┃影视",
+            "name": "🐭┃迷迷┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "playerType": "2",
@@ -4647,7 +4647,7 @@
         },
         {
             "key": "Kuaikan",
-            "name": "👓猫-👀┃快看┃影视",
+            "name": "👀┃快看┃影视",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -4657,7 +4657,7 @@
         },
         {
             "key": "一蜗牛",
-            "name": "👓猫-🐌┃蜗蜗┃影视",
+            "name": "🐌┃蜗蜗┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -4671,7 +4671,7 @@
         },
         {
             "key": "蘑菇",
-            "name": "👓猫-🍄┃蘑菇┃影视",
+            "name": "🍄┃蘑菇┃影视",
             "type": 3,
             "changeable": 1,
             "api": "csp_XBPQ",
@@ -4690,7 +4690,7 @@
         },
         {
             "key": "qiyue",
-            "name": "👓猫-7️⃣┃七月┃影视",
+            "name": "7️⃣┃七月┃影视",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -4702,7 +4702,7 @@
         },
         {
             "key": "鸭鸭",
-            "name": "👓猫-🦆┃鸭鸭┃影视",
+            "name": "🦆┃鸭鸭┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -4713,7 +4713,7 @@
         },
         {
             "key": "麻衣呀呼",
-            "name": "👓猫-🐜┃麻衣┃影视",
+            "name": "🐜┃麻衣┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "http://我不是.肥猫.love:63/json/麻衣呀呼.json",
@@ -4721,7 +4721,7 @@
         },
         {
             "key": "Qtv",
-            "name": "👓猫-🐧┃企鹅┃官源",
+            "name": "🐧┃企鹅┃官源",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/腾云.js",
@@ -4731,7 +4731,7 @@
         },
         {
             "key": "csp_SP360",
-            "name": "👓猫-📺┃360┃官源",
+            "name": "📺┃360┃官源",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -4742,7 +4742,7 @@
         },
         {
             "key": "MGT",
-            "name": "👓猫-🍋┃芒果┃官源",
+            "name": "🍋┃芒果┃官源",
             "type": 3,
             "api": "csp_Mtv",
             "searchable": 1,
@@ -4752,7 +4752,7 @@
         },
         {
             "key": "csp_Ysgc",
-            "name": "👓猫-🎥┃影视┃工厂",
+            "name": "🎥┃影视┃工厂",
             "type": 3,
             "api": "csp_Ysgc",
             "searchable": 1,
@@ -4763,7 +4763,7 @@
         },
         {
             "key": "蓝猫动漫",
-            "name": "👓猫-🌊┃蓝猫┃动漫",
+            "name": "🌊┃蓝猫┃动漫",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -4771,7 +4771,7 @@
         },
         {
             "key": "csp_Ying",
-            "name": "👓猫-🌸┃樱花┃动漫",
+            "name": "🌸┃樱花┃动漫",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
@@ -4781,7 +4781,7 @@
         },
         {
             "key": "csp_search_七夜",
-            "name": "👓猫-👴┃七夜┃搜索",
+            "name": "👴┃七夜┃搜索",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
@@ -4792,7 +4792,7 @@
         },
         {
             "key": "csp_search_PanSearch",
-            "name": "👓猫-🗂️┃盘搜┃搜索",
+            "name": "🗂️┃盘搜┃搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -4803,7 +4803,7 @@
         },
         {
             "key": "csp_search_Yisou",
-            "name": "👓猫-🐏┃易搜┃搜索",
+            "name": "🐏┃易搜┃搜索",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -4815,7 +4815,7 @@
         },
         {
             "key": "csp_search_Zhaozy",
-            "name": "👓猫-🐑┃资源┃搜索",
+            "name": "🐑┃资源┃搜索",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -4827,7 +4827,7 @@
         },
         {
             "key": "csp_search_Upyunso",
-            "name": "👓猫-🐐┃云搜┃搜索",
+            "name": "🐐┃云搜┃搜索",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -4839,7 +4839,7 @@
         },
         {
             "key": "csp_search_Alips",
-            "name": "👓猫-🦌┃盘搜┃搜索",
+            "name": "🦌┃盘搜┃搜索",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -4851,7 +4851,7 @@
         },
         {
             "key": "csp_BBB",
-            "name": "👓猫-🅱┃哔哩┃合集",
+            "name": "🅱┃哔哩┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4861,7 +4861,7 @@
         },
         {
             "key": "csp_戏曲",
-            "name": "👓猫-🅱┃哔哩┃戏曲",
+            "name": "🅱┃哔哩┃戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4871,7 +4871,7 @@
         },
         {
             "key": "csp_XYQBiu_聚合短视频",
-            "name": "👓猫-📽️┃视频┃聚合",
+            "name": "📽️┃视频┃聚合",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
@@ -4882,7 +4882,7 @@
         },
         {
             "key": "csp_If101",
-            "name": "👓猫-✈┃If10 ┃墙外",
+            "name": "✈┃If10 ┃墙外",
             "type": 3,
             "api": "csp_If101",
             "searchable": 1,
@@ -4892,7 +4892,7 @@
         },
         {
             "key": "csp_Xiaoh",
-            "name": "👓猫-✈┃小宝┃墙外",
+            "name": "✈┃小宝┃墙外",
             "type": 3,
             "api": "csp_Xiaoh",
             "searchable": 1,
@@ -4902,7 +4902,7 @@
         },
         {
             "key": "儿童",
-            "name": "👓猫-📚┃少儿┃教育",
+            "name": "📚┃少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -4913,7 +4913,7 @@
         },
         {
             "key": "Czsapp",
-            "name": "👓饭-📔厂长┃直连",
+            "name": "📔厂长┃直连",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
@@ -4925,7 +4925,7 @@
         },
         {
             "key": "77",
-            "name": "👓饭-👒七七┃App",
+            "name": "👒七七┃App",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -4935,7 +4935,7 @@
         },
         {
             "key": "zxzj",
-            "name": "👓饭-📗在线┃直连",
+            "name": "📗在线┃直连",
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
@@ -4946,7 +4946,7 @@
         },
         {
             "key": "迪迪",
-            "name": "👓饭-🌈迪迪┃App",
+            "name": "🌈迪迪┃App",
             "api": "csp_AppYsV2",
             "type": 3,
             "playerType": 2,
@@ -4958,7 +4958,7 @@
         },
         {
             "key": "csp_Bttoo",
-            "name": "👓饭-🍄比特┃直连",
+            "name": "🍄比特┃直连",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -4968,7 +4968,7 @@
         },
         {
             "key": "探探",
-            "name": "👓饭-🏵影探┃App",
+            "name": "🏵影探┃App",
             "type": 3,
             "playerType": "1",
             "api": "csp_YTVIP",
@@ -4981,7 +4981,7 @@
         },
         {
             "key": "Lib",
-            "name": "👓饭-🌟利播┃直连",
+            "name": "🌟利播┃直连",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -4992,7 +4992,7 @@
         },
         {
             "key": "DiDuan",
-            "name": "👓饭-⏮️低端┃直连",
+            "name": "⏮️低端┃直连",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
@@ -5002,7 +5002,7 @@
         },
         {
             "key": "Cokemv",
-            "name": "👓饭-📕可乐┃直连",
+            "name": "📕可乐┃直连",
             "type": 3,
             "api": "csp_Cokemv",
             "playerType": 2,
@@ -5013,7 +5013,7 @@
         },
         {
             "key": "csp_SP33",
-            "name": "👓饭-📺三三┃解析",
+            "name": "📺三三┃解析",
             "type": 3,
             "api": "csp_SP33",
             "searchable": 1,
@@ -5024,7 +5024,7 @@
         },
         {
             "key": "JOJO",
-            "name": "👓饭-🕊︎JOJO┃直连",
+            "name": "🕊︎JOJO┃直连",
             "type": 3,
             "api": "csp_JOJO",
             "searchable": 1,
@@ -5034,7 +5034,7 @@
         },
         {
             "key": "88js",
-            "name": "👓饭-⚽ 88┃看球",
+            "name": "⚽ 88┃看球",
             "type": 3,
             "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
@@ -5048,7 +5048,7 @@
         },
         {
             "key": "酷奇js",
-            "name": "👓饭-🎤酷奇┃MV",
+            "name": "🎤酷奇┃MV",
             "type": 3,
             "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
@@ -5062,7 +5062,7 @@
         },
         {
             "key": "csp_聚短视频",
-            "name": "👓饭-📽️聚短┃视频",
+            "name": "📽️聚短┃视频",
             "type": 3,
             "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
@@ -5072,7 +5072,7 @@
         },
         {
             "key": "有声小说js",
-            "name": "👓饭-🎧有声┃小说",
+            "name": "🎧有声┃小说",
             "type": 3,
             "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
@@ -5086,7 +5086,7 @@
         },
         {
             "key": "Biliych",
-            "name": "👓饭-🅱哔哔┃歌曲",
+            "name": "🅱哔哔┃歌曲",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -5101,7 +5101,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "👓饭-📚少儿┃教育",
+            "name": "📚少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -5116,7 +5116,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "👓饭-📚小学┃课堂",
+            "name": "📚小学┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -5131,7 +5131,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "👓饭-📚初中┃课堂",
+            "name": "📚初中┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "style": {
