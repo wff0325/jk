@@ -18,11 +18,11 @@
             "key": "dr_时光机在线豆瓣",
             "name": "✨领先版时光机💢v20231029-616",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js",
+            "api": "https://jihulab.com/wpp1/jk/-/raw/main/lib/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/豆瓣.js"
+            "ext": "https://jihulab.com/wpp1/jk/-/raw/main/js/douban.js"
         },
         {
             "key": "jar_JOJO",
