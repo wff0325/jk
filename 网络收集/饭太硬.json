@@ -484,7 +484,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wpp1/jk/-/raw/main/json/dmbs.json"
+      "ext": "https://raw.githubusercontent.com/wff0325/1/master/XB/dmbs.json"
     },
     {
       "key": "维奇动漫",
@@ -494,7 +494,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wpp1/jk/-/raw/main/json/wqdm.json"
+      "ext": "https://raw.githubusercontent.com/wff0325/1/master/XB/wqdm.json"
     },
     {
       "key": "腾讯",
