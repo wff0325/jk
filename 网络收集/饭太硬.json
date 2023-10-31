@@ -1,4 +1,6 @@
-{
+  {"wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
+  "warningText": "免费！免费！免费！有问题找wpp",
+  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94",
   "sites": [
     {
       "key": "豆瓣",
@@ -3104,8 +3106,5 @@
         "xc.hubeijieshikj.cn",
         "k.wudejia.com",
         "c.cnzz.com"
-  ],
-"wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
-  "warningText": "免费！免费！免费！有问题找wpp",
-  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
-}
+  ]
+  }
