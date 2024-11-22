@@ -1,24 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEyLjc4LjY2OjQ0Mw==#JP, Tokyo
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE3LjE3OS4yMTE6NDQz#HK, Los Angeles
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjEzLjI0Ny4xMjU6NDQz#US, Houston
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjM4LjY1LjE0Mzo0NDM=#JP, Tokyo 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTQ5LjE4Mi42Nzo0NDM=#US, Dallas 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEyLjIyOS4yNTE6NDQz#HK, Kowloon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTkxLjkuMTA2OjQ0Mw==#CA, Vancouver
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjI5LjIzOC4yMzg6NDQz#KR, Incheon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjE0LjE5My4xMjE6NDQz#JP, Osaka
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEyLjc3LjkxOjQ0Mw==#SG, Singapore
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4zNi4xMTUuMTI0OjQ0Mw==#HK, New Territories
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMjIxLjIzNi4xMzY6NDQz#TW, Taipei
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjU0LjE4Ni4xNzU6NDQz#HK, New Territories
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuNjguMTYwLjI0OjQ0Mw==#US, Dallas 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4zNi4xMTUuMTI0OjQ0Mw==#JP, Tokyo 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC4yMTE6NDQz#JP, Tokyo
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjAyLjc1LjIwNjo0NDM=#CA, Vancouver
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDcuMTI5LjIyMS4xNjA6NDQz#TW, Taipei
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjI4LjE4My4xMDA6NDQz#KR, Incheon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDcuMTI5LjE3NS40Nzo0NDM=#SG, Singapore
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODguMTM2LjE4Nzo0NDM=#HK, Los Angeles
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjA5LjEwMy4yNTQ6NDQz#US, Houston
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNzcuMjM2LjUxOjQ0Mw==#HK, Kowloon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC43NDo0NDM=#JP, Osaka
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.43.55.115:587?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B9%F0%9F%87%BC%20TW-45.43.55.115%3A587
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@138.2.109.23:587?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-138.2.109.23%3A587
+trojan://FLorg@43.153.175.137:443?security=tls&sni=trojan.tcorg.filegear-sg.me&type=ws&host=trojan.tcorg.filegear-sg.me&path=%2F%3Fed#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%AF%F0%9F%87%B5%20JP-43.153.175.137%3A443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@61.84.15.163:11001?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-61.84.15.163%3A11001
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@125.128.118.250:27018?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-125.128.118.250%3A27018
