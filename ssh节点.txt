@@ -1,8 +1,3 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.43.55.115:587?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B9%F0%9F%87%BC%20TW-45.43.55.115%3A587
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@138.2.109.23:587?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-138.2.109.23%3A587
-trojan://FLorg@43.153.175.137:443?security=tls&sni=trojan.tcorg.filegear-sg.me&type=ws&host=trojan.tcorg.filegear-sg.me&path=%2F%3Fed#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%AF%F0%9F%87%B5%20JP-43.153.175.137%3A443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@61.84.15.163:11001?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-61.84.15.163%3A11001
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@125.128.118.250:27018?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-125.128.118.250%3A27018
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTgwLjE1Ny4xNTA6NDQz#KR, Incheon
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE1LjE2MC41Mjo0NDM=#HK, Los Angeles
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuODguMTkzLjUyOjQ0Mw==#CA, Vancouver
