@@ -1,3 +1,4 @@
+vless://eb8e4199-6901-4964-b6fa-88552a109bce@wff.113355.us.kg:443?encryption=none&security=tls&sni=6k.113355.us.kg&fp=randomized&type=ws&host=6k.113355.us.kg&path=%2F%3Fed%3D2048#6k.113355.us.kg
 hysteria2://a7d47a5f@hax1.113355.us.kg:41862?sni=www.bing.com&insecure=1#%E6%AC%A7%E6%B4%B2-ipv6
 hysteria2://PcXGO4ABegfB7Wtz5HgdKl1sY@hax2.113355.us.kg:10086?sni=bing.com&insecure=1#%E6%AC%A7%E6%B4%B2%E6%9C%BA%E5%9C%BA%E7%9B%B4%E8%BF%9E
 hysteria2://d36810db-5479-4107-99be-94fe63f45c67@213.189.54.126:4432?sni=www.bing.com&alpn=h3&insecure=1#%E6%B3%A2%E5%85%B0%E8%8A%82%E7%82%B9-serve0
