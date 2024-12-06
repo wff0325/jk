@@ -1,3 +1,5 @@
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NkNFMlx1NTE3MHMxNCIsDQogICJhZGQiOiAid2ZmLjExMzM1NS51cy5rZyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiM2YwOWE4OS1kYjVhLTQ0NjUtYWYzZC0xMjg1YTYwMWJlZmMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInMxNC4xMTMzNTUudXMua2ciLA0KICAicGF0aCI6ICIvd2FuZ3Bpbmc/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzMTQuMTEzMzU1LnVzLmtnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+hysteria2://b3f09a89-db5a-4465-af3d-1285a601befc@188.68.240.161:51664?sni=www.bing.com&alpn=h3&insecure=1#%E6%B3%A2%E5%85%B0s-14
 vless://eb8e4199-6901-4964-b6fa-88552a109bce@wff.113355.us.kg:443?encryption=none&security=tls&sni=6k.113355.us.kg&fp=randomized&type=ws&host=6k.113355.us.kg&path=%2F%3Fed%3D2048#6k.113355.us.kg
 hysteria2://a7d47a5f@hax1.113355.us.kg:41862?sni=www.bing.com&insecure=1#%E6%AC%A7%E6%B4%B2-ipv6
 hysteria2://PcXGO4ABegfB7Wtz5HgdKl1sY@hax2.113355.us.kg:10086?sni=bing.com&insecure=1#%E6%AC%A7%E6%B4%B2%E6%9C%BA%E5%9C%BA%E7%9B%B4%E8%BF%9E
