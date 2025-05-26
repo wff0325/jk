@@ -1,24 +1,21 @@
-//=============单仓更新日期 2023/10/28=============
+//=============单仓更新日期 2025/6/25============
 //本单仓库在线链接：
 //https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓
 //https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓
 
 {"urls":
 [
-{"url": "https://raw.githubusercontent.com/wff0325/jk/main/%E7%8E%8B%E8%90%8D%E8%90%8D.json","name": "🎯王萍萍线路"}, 
-{"url":"https://raw.githubusercontent.com/wff0325/jk/-/raw/main/网络收集/饭太硬.json","name": "饭太硬"},
-{"url":"https://raw.githubusercontent.com/wff0325/jk/-/raw/main/网络收集/码上放生.json","name":"码上放生"},
-{"url":"https://yydsys.top/duo","name": "多多家庭线路"},
-{"url":"https://raw.githubusercontent.com/wff0325/jk/-/raw/main/网络收集/运输车.json","name": "运输车线"},
-{"url":"https://raw.githubusercontent.com/wff0325/jk/-/raw/main/网络收集/肥猫.json","name": "肥猫线路"},
-{"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
+{"url":"http://肥猫.com","name":"肥猫"},
+{"url":"https://www.xn--sss604efuw.com/tv","name": "饭太硬"},
+{"url":"http://我不是.摸鱼儿.xyz","name": "摸鱼线路"},
+{"url":"https://gh.opb.dpdns.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "南风"},
+{"url":"https://notabug.org/wpp/jk/raw/main/%e6%94%be%e7%89%9b%e5%a8%83.json","name": "放牛线路"},
 {"url":"https://tvbox.cainisi.cf","name": "菜妮丝线" },
-{"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1"},
-{"url":"https://jihulab.com/wpp1/WPP/-/raw/master/zy.json","name":"宝盒汇线"},
-{"url":"https://raw.githubusercontent.com/wff0325/jk/-/raw/main/网络收集/胖虎.json","name": "胖虎线路"},
-{"url":"https://raw.githubusercontent.com/wff0325/jk/-/raw/main/网络收集/南风.json","name": "南风"},
+{"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1"}, 
+{"url":"http://tv.nxog.top/m","name":"讴歌4k"},
+{"url":"https://notabug.org/wpp/jk/raw/main/网络收集/胖虎.json","name": "胖虎线路"},
 {"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧儿"},
-{"url":"https://jihulab.com/wpp1/WPP/-/raw/master/老电视用.json","name":"老电视用"},
-{"url":"http://xhww.fun:63/小米/DEMO.json","name": "小米"}
+{"url":"https://13413.kstore.space/tv/changqing.json","name":"科技长青线路"},
+{"url":"http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "小米"}
 ]
 }
