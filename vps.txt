@@ -1,1 +1,2 @@
 vless://65abc702-dde4-4e84-8244-e79273981297@riben.opb.dpdns.org:443?encryption=none&security=tls&type=ws&path=%2F#japan%F0%9F%94%97
+vless://5be50918-4f59-4d5e-b7e2-e3e78852859c@6k.opb.dpdns.org:443?encryption=none&security=tls&sni=6k.opb.dpdns.org&fp=randomized&type=ws&host=6k.opb.dpdns.org&path=%2F%3Fed%3D2048#6k.opb.dpdns.org
